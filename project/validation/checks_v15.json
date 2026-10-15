@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "new_pairs": [
+    [
+      "AU",
+      "FAS11",
+      "U",
+      "D"
+    ],
+    [
+      "BR",
+      "USTDA01",
+      "U",
+      "D"
+    ],
+    [
+      "MX",
+      "USTDA01",
+      "U",
+      "D"
+    ],
+    [
+      "PH",
+      "USTDA01",
+      "U",
+      "D"
+    ],
+    [
+      "PH",
+      "USTDA05",
+      "U",
+      "D"
+    ]
+  ],
+  "ledger_rows": 2193,
+  "new_observations": 10,
+  "qualifying_pairs": 286,
+  "delivered_pairs": 36,
+  "country_units": 124,
+  "program_category_changes": [
+    "USTDA01",
+    "USTDA05"
+  ],
+  "paper_pages": 3,
+  "atlas_pages": 14
+}

@@ -1,0 +1,4 @@
+geography_weight,scope_weight,stress_2d,distance_rank_correlation_to_equal_weights
+0.25,0.75,0.24380903778771626,1.0
+0.5,0.5,0.21483820423813593,1.0
+0.75,0.25,0.15345552173980948,1.0

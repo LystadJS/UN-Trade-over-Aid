@@ -1,0 +1,807 @@
+﻿program_id,sector_code,sector,explicit_scope,priority,evidence_level,qualifier,source_ids
+ITA01,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA01,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA01_0
+ITA02,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA02,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA02_0
+ITA03,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA03,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA03_0
+ITA04,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA04,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA04_0
+ITA05,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA05,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA05_0
+ITA06,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA06,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA06_0
+ITA07,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA07,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA07_0
+ITA08,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA08,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA08_0
+ITA09,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA09,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA09_0
+ITA10,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA10,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA10_0
+ITA11,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA11,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA11_0
+ITA12,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA12,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA12_0
+ITA13,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA13,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA13_0
+ITA14,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA14,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA14_0
+ITA15,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA15,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA15_0
+ITA16,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA16,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA16_0
+ITA17,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA17,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA17_0
+ITA18,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA18,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA18_0
+ITA19,AG,Agriculture and food,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,MIN,Critical minerals and mining,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,EN,Energy,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,DIG,Digital and telecom,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,TR,Transportation and logistics,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,HE,Healthcare and biotech,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,FIN,Financial services,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,ENV,Water and environmental services,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,MAN,Manufacturing and equipment,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,DEF,Defense and security,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,TOUR,Tourism and accommodation,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,EDU,Education and training,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA19,PRO,Professional and technical services,U,U,programme,Website/SEO capability serving exporters across industries; digital delivery is not a digital-industry restriction,ITA19_0
+ITA20,AG,Agriculture and food,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,MIN,Critical minerals and mining,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,EN,Energy,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,DIG,Digital and telecom,S,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,TR,Transportation and logistics,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,HE,Healthcare and biotech,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,FIN,Financial services,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,ENV,Water and environmental services,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,MAN,Manufacturing and equipment,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,DEF,Defense and security,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,TOUR,Tourism and accommodation,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,EDU,Education and training,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA20,PRO,Professional and technical services,U,U,programme,Digital policy/market-access assistance including digitally enabled sectors; not restricted to IT manufacturers,ITA20_0
+ITA21,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+ITA21,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,ITA21_0
+EXIM01,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM01,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM01_0
+EXIM02,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM02,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,EXIM02_0
+EXIM03,AG,Agriculture and food,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,MIN,Critical minerals and mining,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,EN,Energy,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,DIG,Digital and telecom,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,TR,Transportation and logistics,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,HE,Healthcare and biotech,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,FIN,Financial services,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,ENV,Water and environmental services,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,MAN,Manufacturing and equipment,S,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,DEF,Defense and security,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,TOUR,Tourism and accommodation,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,EDU,Education and training,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM03,PRO,Professional and technical services,S,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM03_0
+EXIM04,AG,Agriculture and food,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,MIN,Critical minerals and mining,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,EN,Energy,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,DIG,Digital and telecom,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,TR,Transportation and logistics,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,HE,Healthcare and biotech,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,FIN,Financial services,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,ENV,Water and environmental services,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,MAN,Manufacturing and equipment,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,DEF,Defense and security,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,TOUR,Tourism and accommodation,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,EDU,Education and training,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM04,PRO,Professional and technical services,U,U,programme,"U.S. goods and services, with transaction/content and sector-policy restrictions",EXIM04_0
+EXIM05,AG,Agriculture and food,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,MIN,Critical minerals and mining,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,EN,Energy,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,DIG,Digital and telecom,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,TR,Transportation and logistics,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,HE,Healthcare and biotech,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,FIN,Financial services,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,ENV,Water and environmental services,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,MAN,Manufacturing and equipment,S,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,DEF,Defense and security,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,TOUR,Tourism and accommodation,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,EDU,Education and training,U,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM05,PRO,Professional and technical services,S,U,programme,Capital goods/equipment and related services; not evidence every manufacturing industry is eligible,EXIM05_0
+EXIM06,AG,Agriculture and food,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,MIN,Critical minerals and mining,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,EN,Energy,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,DIG,Digital and telecom,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,TR,Transportation and logistics,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,HE,Healthcare and biotech,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,FIN,Financial services,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,ENV,Water and environmental services,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,MAN,Manufacturing and equipment,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,DEF,Defense and security,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,TOUR,Tourism and accommodation,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,EDU,Education and training,U,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM06,PRO,Professional and technical services,S,U,programme,"Feasibility, engineering, design, architecture and environmental pre-project services; subsequent capital exports are a condition, not financed output of every initial contract",EXIM06_0
+EXIM09,AG,Agriculture and food,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,MIN,Critical minerals and mining,S,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,EN,Energy,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,DIG,Digital and telecom,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,TR,Transportation and logistics,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,HE,Healthcare and biotech,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,FIN,Financial services,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,ENV,Water and environmental services,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,MAN,Manufacturing and equipment,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,DEF,Defense and security,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,TOUR,Tourism and accommodation,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,EDU,Education and training,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM09,PRO,Professional and technical services,U,U,programme,Critical minerals and rare earths with U.S. offtake; downstream battery/semiconductor beneficiaries are not automatically financed project sectors,EXIM09_0
+EXIM10,AG,Agriculture and food,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,MIN,Critical minerals and mining,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,EN,Energy,U,P,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,DIG,Digital and telecom,U,P,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,TR,Transportation and logistics,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,HE,Healthcare and biotech,U,P,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,FIN,Financial services,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,ENV,Water and environmental services,U,P,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,MAN,Manufacturing and equipment,S,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,DEF,Defense and security,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,TOUR,Tourism and accommodation,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,EDU,Education and training,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+EXIM10,PRO,Professional and technical services,U,U,programme,"Open to all sectors within domestic export-oriented project remit; environment, semiconductors, biotech, renewable energy/storage cited as priorities, not an exhaustive eligibility list",EXIM10_0
+DFC01,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC01,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC01_0
+DFC02,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC02,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC02_0
+DFC03,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC03,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC03_0
+DFC04,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC04,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC04_0
+DFC05,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC05,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC05_0
+DFC06,AG,Agriculture and food,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,MIN,Critical minerals and mining,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,EN,Energy,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,DIG,Digital and telecom,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,TR,Transportation and logistics,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,HE,Healthcare and biotech,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,FIN,Financial services,U,P,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,ENV,Water and environmental services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,MAN,Manufacturing and equipment,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,DEF,Defense and security,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,TOUR,Tourism and accommodation,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,EDU,Education and training,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+DFC06,PRO,Professional and technical services,U,U,agency_priority_plus_statutory_condition,Seven priorities inherited from agency Our Work page; not asset-class-specific sector eligibility. Wealthy-country sector exceptions override broader priorities,DFC01_2;dfc_law;DFC06_0
+USTDA01,AG,Agriculture and food,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,MIN,Critical minerals and mining,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,EN,Energy,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,DIG,Digital and telecom,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,TR,Transportation and logistics,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,HE,Healthcare and biotech,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,FIN,Financial services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,ENV,Water and environmental services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,MAN,Manufacturing and equipment,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,DEF,Defense and security,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,TOUR,Tourism and accommodation,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,EDU,Education and training,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA01,PRO,Professional and technical services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA01_0
+USTDA02,AG,Agriculture and food,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,MIN,Critical minerals and mining,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,EN,Energy,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,DIG,Digital and telecom,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,TR,Transportation and logistics,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,HE,Healthcare and biotech,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,FIN,Financial services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,ENV,Water and environmental services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,MAN,Manufacturing and equipment,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,DEF,Defense and security,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,TOUR,Tourism and accommodation,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,EDU,Education and training,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA02,PRO,Professional and technical services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA02_0
+USTDA03,AG,Agriculture and food,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,MIN,Critical minerals and mining,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,EN,Energy,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,DIG,Digital and telecom,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,TR,Transportation and logistics,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,HE,Healthcare and biotech,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,FIN,Financial services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,ENV,Water and environmental services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,MAN,Manufacturing and equipment,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,DEF,Defense and security,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,TOUR,Tourism and accommodation,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,EDU,Education and training,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA03,PRO,Professional and technical services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA03_0
+USTDA04,AG,Agriculture and food,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,MIN,Critical minerals and mining,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,EN,Energy,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,DIG,Digital and telecom,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,TR,Transportation and logistics,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,HE,Healthcare and biotech,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,FIN,Financial services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,ENV,Water and environmental services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,MAN,Manufacturing and equipment,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,DEF,Defense and security,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,TOUR,Tourism and accommodation,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,EDU,Education and training,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA04,PRO,Professional and technical services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA04_0
+USTDA05,AG,Agriculture and food,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,MIN,Critical minerals and mining,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,EN,Energy,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,DIG,Digital and telecom,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,TR,Transportation and logistics,U,P,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,HE,Healthcare and biotech,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,FIN,Financial services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,ENV,Water and environmental services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,MAN,Manufacturing and equipment,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,DEF,Defense and security,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,TOUR,Tourism and accommodation,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,EDU,Education and training,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+USTDA05,PRO,Professional and technical services,U,U,agency_intake_plus_tool,Four current proposal-form categories are agency selection priorities; absence of other sectors is not a legal exclusion,ustda_propose;USTDA05_0
+FAS01,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS01,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS01_0
+FAS02,AG,Agriculture and food,S,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,MIN,Critical minerals and mining,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,EN,Energy,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,DIG,Digital and telecom,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,TR,Transportation and logistics,S,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,HE,Healthcare and biotech,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,FIN,Financial services,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,ENV,Water and environmental services,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,MAN,Manufacturing and equipment,S,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,DEF,Defense and security,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,TOUR,Tourism and accommodation,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,EDU,Education and training,U,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS02,PRO,Professional and technical services,S,U,programme,"Agriculture-related storage, processing, handling and distribution facilities; these ancillary sectors are eligible only in that context",fgp
+FAS03,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS03,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",map
+FAS04,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS04,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",fmd
+FAS05,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS05,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",rapp2025_nofo
+FAS06,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS06,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",aftpp_nofo
+FAS07,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS07,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",emp
+FAS08,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS08,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",qsp
+FAS09,AG,Agriculture and food,S,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,MIN,Critical minerals and mining,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,EN,Energy,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,DIG,Digital and telecom,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,TR,Transportation and logistics,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,HE,Healthcare and biotech,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,FIN,Financial services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,ENV,Water and environmental services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,MAN,Manufacturing and equipment,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,DEF,Defense and security,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,TOUR,Tourism and accommodation,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,EDU,Education and training,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS09,PRO,Professional and technical services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,tasc
+FAS10,AG,Agriculture and food,S,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,MIN,Critical minerals and mining,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,EN,Energy,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,DIG,Digital and telecom,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,TR,Transportation and logistics,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,HE,Healthcare and biotech,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,FIN,Financial services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,ENV,Water and environmental services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,MAN,Manufacturing and equipment,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,DEF,Defense and security,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,TOUR,Tourism and accommodation,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,EDU,Education and training,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS10,PRO,Professional and technical services,U,U,programme,Specialty-crop export barriers; do not count the subset as all agriculture,asce
+FAS11,AG,Agriculture and food,S,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,MIN,Critical minerals and mining,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,EN,Energy,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,DIG,Digital and telecom,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,TR,Transportation and logistics,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,HE,Healthcare and biotech,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,FIN,Financial services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,ENV,Water and environmental services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,MAN,Manufacturing and equipment,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,DEF,Defense and security,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,TOUR,Tourism and accommodation,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,EDU,Education and training,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+FAS11,PRO,Professional and technical services,U,U,programme,"Agricultural commodities/products; tool-specific commodity, branding and applicant restrictions apply",FAS11_0
+SBA01,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA01,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA01_0
+SBA02,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA02,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA02_0
+SBA03,AG,Agriculture and food,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,MIN,Critical minerals and mining,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,EN,Energy,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,DIG,Digital and telecom,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,TR,Transportation and logistics,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,HE,Healthcare and biotech,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,FIN,Financial services,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,ENV,Water and environmental services,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,MAN,Manufacturing and equipment,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,DEF,Defense and security,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,TOUR,Tourism and accommodation,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,EDU,Education and training,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA03,PRO,Professional and technical services,U,U,programme,Cross-sector ITL with import-competition threshold pathway for specified manufacturing/mining/agricultural industries; 2026 energy policy is not an exhaustive eligibility list or comparative funding priority; explicit NAICS721/457 exclusions,sba_sop_current;sba_energy
+SBA04,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA04,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA04_0
+SBA05,AG,Agriculture and food,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,MIN,Critical minerals and mining,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,EN,Energy,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,DIG,Digital and telecom,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,TR,Transportation and logistics,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,HE,Healthcare and biotech,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,FIN,Financial services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,ENV,Water and environmental services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,MAN,Manufacturing and equipment,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,DEF,Defense and security,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,TOUR,Tourism and accommodation,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,EDU,Education and training,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+SBA05,PRO,Professional and technical services,U,U,programme,Cross-sector remit is not evidence that every industry or transaction is eligible,SBA05_0
+DOD01,AG,Agriculture and food,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,MIN,Critical minerals and mining,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,EN,Energy,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,DIG,Digital and telecom,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,TR,Transportation and logistics,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,HE,Healthcare and biotech,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,FIN,Financial services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,ENV,Water and environmental services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,MAN,Manufacturing and equipment,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,DEF,Defense and security,S,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,TOUR,Tourism and accommodation,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,EDU,Education and training,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD01,PRO,Professional and technical services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,AG,Agriculture and food,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,MIN,Critical minerals and mining,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,EN,Energy,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,DIG,Digital and telecom,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,TR,Transportation and logistics,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,HE,Healthcare and biotech,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,FIN,Financial services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,ENV,Water and environmental services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,MAN,Manufacturing and equipment,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,DEF,Defense and security,S,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,TOUR,Tourism and accommodation,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,EDU,Education and training,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+DOD02,PRO,Professional and technical services,U,U,programme,"Defense articles, services and related training/infrastructure; do not code these as general civilian education, construction or transport",fms_rules
+STATE06,AG,Agriculture and food,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,MIN,Critical minerals and mining,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,EN,Energy,S,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,DIG,Digital and telecom,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,TR,Transportation and logistics,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,HE,Healthcare and biotech,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,FIN,Financial services,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,ENV,Water and environmental services,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,MAN,Manufacturing and equipment,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,DEF,Defense and security,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,TOUR,Tourism and accommodation,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,EDU,Education and training,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+STATE06,PRO,Professional and technical services,U,U,programme,"Closed funding notice establishes current program authority, not open applications or universal country eligibility",first2026;first_nofo;first2025;fam_cached
+SBA07,AG,Agriculture and food,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,MIN,Critical minerals and mining,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,EN,Energy,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,DIG,Digital and telecom,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,TR,Transportation and logistics,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,HE,Healthcare and biotech,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,FIN,Financial services,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,ENV,Water and environmental services,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,MAN,Manufacturing and equipment,S,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,DEF,Defense and security,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,TOUR,Tourism and accommodation,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,EDU,Education and training,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+SBA07,PRO,Professional and technical services,U,U,programme,General manufacturing program included only for export-related use; not an export-specific 90 percent guarantee,sba_marc;marc_appendix;sba_marc_live;sba_omt_owner
+ITA25,AG,Agriculture and food,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,MIN,Critical minerals and mining,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,EN,Energy,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,DIG,Digital and telecom,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,TR,Transportation and logistics,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,HE,Healthcare and biotech,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,FIN,Financial services,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,ENV,Water and environmental services,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,MAN,Manufacturing and equipment,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,DEF,Defense and security,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,TOUR,Tourism and accommodation,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,EDU,Education and training,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA25,PRO,Professional and technical services,U,U,programme,Voluntary protection for approved export collaboration; not an ordinary mandatory export license or financing,etcr;etcr_apply;etcr_rules
+ITA26,AG,Agriculture and food,S,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,MIN,Critical minerals and mining,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,EN,Energy,S,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,DIG,Digital and telecom,S,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,TR,Transportation and logistics,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,HE,Healthcare and biotech,S,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,FIN,Financial services,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,ENV,Water and environmental services,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,MAN,Manufacturing and equipment,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,DEF,Defense and security,S,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,TOUR,Tourism and accommodation,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,EDU,Education and training,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2
+ITA26,PRO,Professional and technical services,U,U,programme,Live page describes a pilot; undated listing does not prove current lead volume or national availability,STATE01_2

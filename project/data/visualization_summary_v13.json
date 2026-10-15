@@ -1,0 +1,33 @@
+{
+  "inventory_records": 124,
+  "country_units": 249,
+  "matrix_programs": 110,
+  "observed_country_program_pairs": 276,
+  "observed_programs": 18,
+  "country_units_with_observations": 121,
+  "similarity_programs": 13,
+  "similarity_profiles": 7,
+  "similarity_excluded": 49,
+  "similarity_stress": 0.21483820423813593,
+  "minimum_pairwise_shared_countries": 179,
+  "legacy_awards": 25,
+  "uploaded_prime_transactions": 10,
+  "uploaded_subaward_rows": 43,
+  "evidence_categories": {
+    "current_official_offer_only": 61,
+    "current_operation_unresolved": 18,
+    "recent_delivery_reported": 8,
+    "current_portfolio_or_authorizations": 12,
+    "funding_intake_or_approval_action": 14,
+    "boundary_or_alias": 11
+  },
+  "country_status_counts": {
+    "Unresolved / no qualifying observation": 24273,
+    "Conditional geographic route only": 2107,
+    "Domestic location axis": 249,
+    "Geographic restriction or not listed": 409,
+    "Documented financing or delivery": 276,
+    "Approval, pipeline or target only": 33,
+    "Historical or terminated project": 43
+  }
+}

@@ -1,0 +1,18 @@
+CURRENT RELEASE — v0.15
+Read deliverables/US_Trade_Facilitation_Informative_Paper_v0_15.pdf (three pages).
+Visual atlas: deliverables/Trade_Program_Evidence_Atlas_v0_15.pdf.
+Current additions: data/service_delivery_additions_v15.csv.
+Read deliverables/Service_Delivery_Review_v0_15.txt for evidence levels, date discrepancies and exclusions.
+Full data: country_activity_ledger.csv, country_program_status_v15.csv, activity/stage/eligibility matrices in data/.
+Source registry retains the source_registry_v11.csv filename for compatibility; v15 primary snapshots and receipts are under research_v15/evidence/.
+
+Reproduce from retained baseline (no network needed):
+python scripts/apply_service_delta_v15.py
+python scripts/build_evidence_views_v15.py
+python scripts/build_paper_v15.py
+python scripts/render_docx.py deliverables/US_Trade_Facilitation_Informative_Paper_v0_15.docx --output_dir validation/paper_v15 --emit_pdf
+Copy the rendered PDF into deliverables/; inspect the pages.
+python scripts/verify_v15.py
+python scripts/package_v15.py
+
+All prior numbered outputs and validations are historical. Current v15 outputs supersede them. The v11 workbook remains a historical reference. Eligibility, office presence and legacy-survival classifications are unchanged. Unresolved awards are not verified active.

@@ -1,0 +1,3 @@
+﻿event_id,observation_id,program_id,country_code,event_start,event_end,role,source_id,counting_limit
+WESTERN_BALKANS_20260610,OBS02148,DOC01,MK,2026-06-10,2026-06-11,convening_and_technical_delivery,V10_CLDP_BALKANS,One shared event; do not sum program links as independent deals.
+WESTERN_BALKANS_20260610,OBS02170,STATE09,MK,2026-06-10,2026-06-11,named_funding_partnership,V10_CRDF_BALKANS,One shared event; do not sum program links as independent deals.

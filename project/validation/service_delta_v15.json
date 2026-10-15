@@ -1,0 +1,30 @@
+{
+  "new_observations": 10,
+  "new_pairs": [
+    [
+      "AU",
+      "FAS11"
+    ],
+    [
+      "PH",
+      "USTDA05"
+    ],
+    [
+      "MX",
+      "USTDA01"
+    ],
+    [
+      "BR",
+      "USTDA01"
+    ],
+    [
+      "PH",
+      "USTDA01"
+    ]
+  ],
+  "qualifying_pairs": 286,
+  "delivered_pairs": 36,
+  "observed_programs": 21,
+  "countries": 124,
+  "ledger_rows": 2193
+}

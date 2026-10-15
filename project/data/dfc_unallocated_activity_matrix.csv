@@ -1,0 +1,250 @@
+﻿country_code,country,DFC_FINANCE_UNALLOCATED,DFC_LEGACY_UNALLOCATED
+AD,Andorra,U,U
+AE,United Arab Emirates,U,U
+AF,Afghanistan,C,U
+AG,Antigua & Barbuda,U,C
+AI,Anguilla,U,U
+AL,Albania,U,U
+AM,Armenia,C,U
+AO,Angola,C,U
+AQ,Antarctica,U,U
+AR,Argentina,C,C
+AS,Samoa (American),U,U
+AT,Austria,U,U
+AU,Australia,U,U
+AW,Aruba,U,U
+AX,Åland Islands,U,U
+AZ,Azerbaijan,U,U
+BA,Bosnia & Herzegovina,U,C
+BB,Barbados,U,C
+BD,Bangladesh,U,U
+BE,Belgium,U,U
+BF,Burkina Faso,U,U
+BG,Bulgaria,U,U
+BH,Bahrain,U,U
+BI,Burundi,U,U
+BJ,Benin,U,U
+BL,St Barthelemy,U,U
+BM,Bermuda,U,U
+BN,Brunei,U,U
+BO,Bolivia,U,U
+BQ,Caribbean NL,U,U
+BR,Brazil,C,U
+BS,Bahamas,U,U
+BT,Bhutan,U,U
+BV,Bouvet Island,U,U
+BW,Botswana,U,U
+BY,Belarus,U,U
+BZ,Belize,U,U
+CA,Canada,U,U
+CC,Cocos (Keeling) Islands,U,U
+CD,Congo (Dem. Rep.),U,U
+CF,Central African Rep.,U,U
+CG,Congo (Rep.),U,U
+CH,Switzerland,U,U
+CI,Côte d'Ivoire,U,U
+CK,Cook Islands,U,U
+CL,Chile,U,U
+CM,Cameroon,U,U
+CN,China,U,U
+CO,Colombia,C,C
+CR,Costa Rica,C,U
+CU,Cuba,U,U
+CV,Cape Verde,U,U
+CW,Curaçao,U,U
+CX,Christmas Island,U,U
+CY,Cyprus,U,U
+CZ,Czech Republic,U,U
+DE,Germany,U,U
+DJ,Djibouti,U,U
+DK,Denmark,U,U
+DM,Dominica,U,U
+DO,Dominican Republic,C,U
+DZ,Algeria,U,U
+EC,Ecuador,C,C
+EE,Estonia,U,U
+EG,Egypt,C,U
+EH,Western Sahara,U,U
+ER,Eritrea,U,U
+ES,Spain,U,U
+ET,Ethiopia,C,U
+FI,Finland,U,U
+FJ,Fiji,U,U
+FK,Falkland Islands,U,U
+FM,Micronesia,U,U
+FO,Faroe Islands,U,U
+FR,France,U,U
+GA,Gabon,U,U
+GB,Britain (UK),U,U
+GD,Grenada,U,U
+GE,Georgia,C,U
+GF,French Guiana,U,U
+GG,Guernsey,U,U
+GH,Ghana,C,U
+GI,Gibraltar,U,U
+GL,Greenland,U,U
+GM,Gambia,U,U
+GN,Guinea,C,U
+GP,Guadeloupe,U,U
+GQ,Equatorial Guinea,U,U
+GR,Greece,C,U
+GS,South Georgia & the South Sandwich Islands,U,U
+GT,Guatemala,C,U
+GU,Guam,U,U
+GW,Guinea-Bissau,U,U
+GY,Guyana,U,U
+HK,Hong Kong,U,U
+HM,Heard Island & McDonald Islands,U,U
+HN,Honduras,C,C
+HR,Croatia,U,U
+HT,Haiti,C,U
+HU,Hungary,U,U
+ID,Indonesia,C,C
+IE,Ireland,U,U
+IL,Israel,U,U
+IM,Isle of Man,U,U
+IN,India,C,C
+IO,British Indian Ocean Territory,U,U
+IQ,Iraq,C,U
+IR,Iran,U,U
+IS,Iceland,U,U
+IT,Italy,U,U
+JE,Jersey,U,U
+JM,Jamaica,U,C
+JO,Jordan,C,U
+JP,Japan,U,U
+KE,Kenya,C,C
+KG,Kyrgyzstan,U,U
+KH,Cambodia,C,U
+KI,Kiribati,U,U
+KM,Comoros,U,U
+KN,St Kitts & Nevis,U,C
+KP,Korea (North),U,U
+KR,Korea (South),U,U
+KW,Kuwait,U,U
+KY,Cayman Islands,U,U
+KZ,Kazakhstan,U,U
+LA,Laos,U,U
+LB,Lebanon,U,U
+LC,St Lucia,U,U
+LI,Liechtenstein,U,U
+LK,Sri Lanka,C,C
+LR,Liberia,C,U
+LS,Lesotho,C,U
+LT,Lithuania,U,U
+LU,Luxembourg,U,U
+LV,Latvia,U,U
+LY,Libya,U,U
+MA,Morocco,C,C
+MC,Monaco,U,U
+MD,Moldova,C,U
+ME,Montenegro,U,C
+MF,St Martin (French),U,U
+MG,Madagascar,U,U
+MH,Marshall Islands,U,U
+MK,North Macedonia,U,U
+ML,Mali,U,U
+MM,Myanmar (Burma),C,U
+MN,Mongolia,C,U
+MO,Macau,U,U
+MP,Northern Mariana Islands,U,U
+MQ,Martinique,U,U
+MR,Mauritania,U,U
+MS,Montserrat,U,U
+MT,Malta,U,U
+MU,Mauritius,U,U
+MV,Maldives,U,U
+MW,Malawi,U,U
+MX,Mexico,C,U
+MY,Malaysia,U,U
+MZ,Mozambique,C,U
+NA,Namibia,U,U
+NC,New Caledonia,U,U
+NE,Niger,U,U
+NF,Norfolk Island,U,U
+NG,Nigeria,C,U
+NI,Nicaragua,C,U
+NL,Netherlands,U,U
+NO,Norway,U,U
+NP,Nepal,C,U
+NR,Nauru,U,U
+NU,Niue,U,U
+NZ,New Zealand,U,U
+OM,Oman,U,U
+PA,Panama,U,U
+PE,Peru,C,U
+PF,French Polynesia,U,U
+PG,Papua New Guinea,U,U
+PH,Philippines,U,U
+PK,Pakistan,C,C
+PL,Poland,U,U
+PM,St Pierre & Miquelon,U,U
+PN,Pitcairn,U,U
+PR,Puerto Rico,U,U
+PS,Palestine,C,U
+PT,Portugal,U,U
+PW,Palau,U,U
+PY,Paraguay,C,U
+QA,Qatar,U,U
+RE,Réunion,U,U
+RO,Romania,U,U
+RS,Serbia,U,C
+RU,Russia,C,U
+RW,Rwanda,U,U
+SA,Saudi Arabia,U,U
+SB,Solomon Islands,U,U
+SC,Seychelles,U,U
+SD,Sudan,U,U
+SE,Sweden,U,U
+SG,Singapore,U,U
+SH,St Helena,U,U
+SI,Slovenia,U,U
+SJ,Svalbard & Jan Mayen,U,U
+SK,Slovakia,U,U
+SL,Sierra Leone,C,U
+SM,San Marino,U,U
+SN,Senegal,C,U
+SO,Somalia,U,C
+SR,Suriname,U,U
+SS,South Sudan,U,C
+ST,Sao Tome & Principe,U,U
+SV,El Salvador,C,U
+SX,St Maarten (Dutch),U,U
+SY,Syria,U,C
+SZ,Eswatini (Swaziland),U,U
+TC,Turks & Caicos Is,U,U
+TD,Chad,C,U
+TF,French S. Terr.,U,U
+TG,Togo,C,U
+TH,Thailand,U,U
+TJ,Tajikistan,C,U
+TK,Tokelau,U,U
+TL,East Timor,C,U
+TM,Turkmenistan,U,U
+TN,Tunisia,U,C
+TO,Tonga,U,U
+TR,Turkey,C,U
+TT,Trinidad & Tobago,U,C
+TV,Tuvalu,U,U
+TW,Taiwan,U,U
+TZ,Tanzania,C,U
+UA,Ukraine,B+C,U
+UG,Uganda,C,U
+UM,US minor outlying islands,U,U
+UY,Uruguay,U,U
+UZ,Uzbekistan,U,U
+VA,Vatican City,U,U
+VC,St Vincent,U,C
+VE,Venezuela,U,U
+VG,Virgin Islands (UK),U,U
+VI,Virgin Islands (US),U,U
+VN,Vietnam,C,U
+VU,Vanuatu,U,U
+WF,Wallis & Futuna,U,U
+WS,Samoa (western),U,U
+YE,Yemen,U,C
+YT,Mayotte,U,U
+ZA,South Africa,C,U
+ZM,Zambia,C,U
+ZW,Zimbabwe,U,C
+XK,Kosovo,C,U

@@ -1,0 +1,11 @@
+﻿program_id,restriction,rule,source_id
+FAS05,tobacco,Explicit commodity exclusion in named NOFO,rapp2025_nofo
+FAS06,tobacco,Explicit commodity exclusion in named NOFO,aftpp_nofo
+FAS09,wheat; feed grains; oilseeds; cotton; rice; peanuts; sugar; tobacco,Explicit TASC commodity exclusions; do not infer these from all agriculture,tasc
+FAS04,consumer-oriented branded promotion,FMD is generic commodity promotion; MAP may support branded promotion,fmd
+FAS07,specific-company/branded promotion,EMP supports generic commodities; branded/specific-company projects ineligible,emp
+FAS08,single-company or product benefit,Industry/commodity-wide samples for processors/manufacturers; not consumer advertising,qsp
+SBA03,NAICS721 accommodation; NAICS457 gasoline stations,ITL-specific ineligibility; other SBA7(a) routes may be available,sba_sop_current
+ITA15,business-to-business transactions; commercial policy,Outside Advocacy Center procurement scope,ITA15_0
+EXIM05,military/defense items and military lessees,Generally ineligible with exceptions; do not encode blanket sector ban,EXIM05_0
+EXIM09,PRC location/control/technology/customer dependence,Project-level restrictions can apply outside China,EXIM09_0

@@ -1,0 +1,63 @@
+﻿program_id,name,agency,office_network_id,source_urls
+ITA01,Gold Key Service,Commerce/ITA,CS,https://www.trade.gov/gold-key-service
+ITA02,International Partner Search,Commerce/ITA,CS,https://www.trade.gov/international-partner-search | https://www.trade.gov/services-china
+ITA03,International Company Profile,Commerce/ITA,CS,https://www.trade.gov/international-company-profile-0
+ITA04,Customized Market Research,Commerce/ITA,CS,https://www.trade.gov/customized-market-research-0
+ITA05,Initial Market Check,Commerce/ITA,CS,https://www.trade.gov/initial-market-check-0 | https://www.trade.gov/services-china
+ITA06,RAISE Research / Rural Export Center,Commerce/ITA,CS,https://www.trade.gov/raise
+ITA07,Single Company or Location Promotion,Commerce/ITA,CS,https://www.trade.gov/single-company-promotion
+ITA08,Trade Show Representation,Commerce/ITA,CS,https://www.trade.gov/trade-show-representation
+ITA09,Virtual Fairs,Commerce/ITA,CS,https://www.trade.gov/virtual-fair
+ITA10,Virtual Introductions,Commerce/ITA,CS,https://www.trade.gov/virtual-introduction
+ITA11,Featured U.S. Exporters (FUSE),Commerce/ITA,CS,https://www.trade.gov/buyusa-fuse
+ITA12,Commerce-led Trade Missions,Commerce/ITA,CS,https://www.trade.gov/usg-resources-partners-and-customers
+ITA13,Certified Trade Missions,Commerce/ITA,CS,https://www.trade.gov/certified-trade-missions
+ITA14,Trade Event Services (TEPP/TEMS and virtual variants),Commerce/ITA,CS,https://www.trade.gov/usg-resources-partners-and-customers
+ITA15,Advocacy Center Services,Commerce/ITA,CS,https://www.trade.gov/advocacy-center-services
+ITA16,MDB Commercial Liaison Services,Commerce/ITA,CS,https://www.trade.gov/advocacy-liaisons-multilateral-development-banks
+ITA17,Trade Agreements Negotiations and Compliance / trade-barrier assistance,Commerce/ITA,CS,https://www.trade.gov/usg-resources-policy-support
+ITA18,Customized Export Counseling,Commerce/ITA,CS,https://www.trade.gov/usg-resources-counseling
+ITA19,Website Globalization Review Gap Analysis,Commerce/ITA,CS,https://www.trade.gov/usg-resources-technical-assistance
+ITA20,Digital Attaché Program,Commerce/ITA,CS,https://www.trade.gov/digital-attache-program-0
+ITA21,Market Development Cooperator Program (MDCP),Commerce/ITA,CS,https://www.trade.gov/mdcp
+EXIM01,Export Credit Insurance,EXIM,EXIM,https://www.exim.gov/solutions/export-credit-insurance
+EXIM02,Working Capital Loan Guarantee,EXIM,EXIM,https://www.exim.gov/solutions/working-capital | https://www.exim.gov/solutions/get-financing | https://www.exim.gov/solutions/borrow-against-export-related-assets
+EXIM03,Medium- and Long-Term Loan Guarantee,EXIM,EXIM,https://www.exim.gov/solutions/loan-guarantee
+EXIM04,Direct Loan,EXIM,EXIM,https://www.exim.gov/solutions/direct-loan
+EXIM05,Finance Lease Guarantee,EXIM,EXIM,https://www.exim.gov/solutions/finance-lease-guarantee
+EXIM06,Engineering Multiplier Program,EXIM,EXIM,https://www.exim.gov/solutions/loan-guarantee/emp
+EXIM09,Supply Chain Resiliency Initiative (SCRI),EXIM,EXIM,https://www.exim.gov/about/special-initiatives/supply-chain-resiliency-initiative
+EXIM10,Make More in America Initiative (MMIA),EXIM,EXIM,https://www.exim.gov/about/special-initiatives/make-more-in-america-initiative
+DFC01,Debt,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/debt | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+DFC02,Guaranties,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/guaranties | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+DFC03,Political Risk Insurance,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/insurance | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+DFC04,Equity,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/equity | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+DFC05,Platforms and Funds,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/platforms-and-funds | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+DFC06,Project Development,DFC,DFC,https://www.dfc.gov/what-we-offer/asset-classes/project-development | https://www.dfc.gov/what-we-offer/work-with-us/where-we-work | https://www.dfc.gov/what-we-do/our-work
+USTDA01,Project Preparation Assistance (feasibility studies and technical assistance),USTDA,USTDA,https://ustda.gov/about-tools/feasibility-studies-and-technical-assistance/ | https://ustda.gov/work/propose-a-project/
+USTDA02,Pilot Projects,USTDA,USTDA,https://www.trade.gov/usg-resources-financing | https://ustda.gov/
+USTDA03,Reverse Trade Missions,USTDA,USTDA,https://ustda.gov/about-tools/reverse-trade-missions/
+USTDA04,Training Grants,USTDA,USTDA,https://ustda.gov/about-tools/training-grants/
+USTDA05,"Industry Conferences, Business Briefings and Expert Workshops",USTDA,USTDA,https://www.trade.gov/usg-resources-partners-and-customers | https://ustda.gov/regions/indo-pacific/
+FAS01,Export Credit Guarantee Program (GSM-102),USDA/FAS,FAS,https://fas.usda.gov/programs/export-credit-guarantee-program-gsm-102 | https://fas-prod.azureedge.us/newsroom/gsm-102-export-credit-guarantee-program-funds-available-fy-2027
+FAS02,Facility Guarantee Program,USDA/FAS,FAS,https://fas.usda.gov/programs/facility-guarantee-program
+FAS03,Market Access Program (MAP),USDA/FAS,FAS,https://fas-prod.azureedge.us/programs/market-access-program-map | https://fas-prod.azureedge.us/newsroom/announcing-2026-awardees-map-and-fmd
+FAS04,Foreign Market Development (FMD),USDA/FAS,FAS,https://fas-prod.azureedge.us/newsroom/announcing-2026-awardees-map-and-fmd
+FAS05,Regional Agricultural Promotion Program (RAPP),USDA/FAS,FAS,https://fas.usda.gov/newsroom/usda-announces-opening-application-period-regional-agricultural-promotion-program | https://fas.usda.gov/newsroom/usda-announces-300-million-additional-regional-agricultural-promotion-program-grants
+FAS06,America First Trade Promotion Program (AFTPP),USDA/FAS,FAS,https://simpler.grants.gov/es/opportunity/06f0ec84-e04b-4258-bc33-1634d1209b42 | https://fas.usda.gov/newsroom/search?news%5B0%5D=news_type%3A10502&page=1
+FAS07,Emerging Markets Program (EMP),USDA/FAS,FAS,https://fas.usda.gov/topics/trade-missions
+FAS08,Quality Samples Program (QSP),USDA/FAS,FAS,https://fas.usda.gov/programs/quality-samples-program-qsp
+FAS09,Technical Assistance for Specialty Crops (TASC),USDA/FAS,FAS,https://www.fas.usda.gov/programs | https://www.grants.gov/search-results-detail/358615
+FAS10,Assisting Specialty Crop Exports (ASCE),USDA/FAS,FAS,https://fas-prod.azureedge.us/newsroom/announcing-2026-awardees-map-and-fmd | https://simpler.grants.gov/es/opportunity/d76fbae3-47ff-4d27-808e-b8db7fb89ecf
+FAS11,Agribusiness Trade Missions,USDA/FAS,FAS,https://fas.usda.gov/topics/trade-missions
+SBA01,Export Express,SBA,SBA,https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/ | https://www.sba.gov/counseling/trade-tools-for-international-sales/
+SBA02,Export Working Capital Program,SBA,SBA,https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/ | https://www.sba.gov/counseling/trade-tools-for-international-sales/
+SBA03,International Trade Loan,SBA,SBA,https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/ | https://www.sba.gov/counseling/trade-tools-for-international-sales/
+SBA04,7(a) Working Capital Pilot — export use,SBA,SBA,https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/ | https://www.sba.gov/counseling/trade-tools-for-international-sales/
+SBA05,State Trade Expansion Program (STEP),SBA,SBA,https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/ | https://www.sba.gov/counseling/trade-tools-for-international-sales/
+STATE06,Foundational Infrastructure for Responsible Use of SMR Technology FIRST,State,STATE,https://simpler.grants.gov/opportunity/a97c191f-3f73-45fb-8f4d-a91fa7bdef1f | https://files.simpler.grants.gov/opportunities/a97c191f-3f73-45fb-8f4d-a91fa7bdef1f/attachments/45306592-5d16-4412-9ab5-1d2e2835a656/FY26_All_CTR_Non-Proliferation_Programing_NOFO_-_260206.docx | https://simpler.grants.gov/opportunity/870a5e1d-f8ec-4763-8a7c-4709086713db | https://fam.state.gov/fam/04FAH01/04FAH010420.html
+DOD01,Foreign Military Sales (FMS),Defense/State,DOD,https://samm.dsca.mil/chapter/chapter-2 | https://2017-2021.state.gov/key-topics-office-of-regional-security-and-arms-transfers/
+DOD02,Foreign Military Financing (FMF),Defense/State,DOD,https://samm.dsca.mil/chapter/chapter-9 | https://samm.dsca.mil/policy-memoranda/dsca-26-16
+SBA07,Manufacturers Access to Revolving Credit MARC export-related use,SBA,U,https://legacy.sba.gov/document/sop-50-10-appendix-13-7a-manufacturers-access-revolving-credit-marc | https://legacy.sba.gov/sites/default/files/2025-09/Appendix%2013%207%28a%29%20Manufacturers%27%20Access%20to%20Revolving%20Credit%20%28MARC%29_0.docx | https://www.sba.gov/sba-lenders/ | https://www.sba.gov/about-sba/sba-locations/headquarters/office-of-manufacturing-and-trade/
+ITA25,Export Trade Certificate of Review ETCR,Commerce/ITA,U,https://www.trade.gov/export-trading-company | https://www.trade.gov/feature-article/export-trading-company-act-application-instructions | https://www.trade.gov/feature-article/export-trading-company-act-title-iii-regulations
+ITA26,Express Leads MEA ELMEA,Commerce/ITA,U,https://www.trade.gov/mea-deal-teams

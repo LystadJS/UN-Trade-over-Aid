@@ -1,0 +1,14 @@
+﻿code,meaning,applies_to
+A,Approved non-cancelled EXIM authorization in FY2026 through June 30; geography is credit-risk location,activity and stage matrices; participant-origin entries remain ledger-only
+C,DFC active commitment stock as of June 30 or separately cited signed/capitalized financing; not disbursement or delivered output,activity and stage matrices; participant-origin entries remain ledger-only
+D,Primary source explicitly reports delivered or ongoing assistance during 2026; not independently measured effect,activity and stage matrices; participant-origin entries remain ledger-only
+I,MCC latest roster labels project Implementation; not independent construction verification,activity and stage matrices; participant-origin entries remain ledger-only
+B,Board approval; closing not verified,activity and stage matrices; participant-origin entries remain ledger-only
+G,Project/grant announced; implementation not confirmed,activity and stage matrices; participant-origin entries remain ledger-only
+N,Signed MCC compact; not yet labeled Implementation,activity and stage matrices; participant-origin entries remain ledger-only
+P,MCC development pipeline,activity and stage matrices; participant-origin entries remain ledger-only
+S,Scheduled mission; occurrence unconfirmed,activity and stage matrices; participant-origin entries remain ledger-only
+T,MDCP current listed award target; not delivery location,activity and stage matrices; participant-origin entries remain ledger-only
+H,Closed/closure or past listed end date; historical record only,activity and stage matrices; participant-origin entries remain ledger-only
+X,Specific MCC project terminated; not whole-country exclusion,activity and stage matrices; participant-origin entries remain ledger-only
+U,No qualifying observation in this evidence collection; not zero activity or ineligibility,activity and stage matrices; participant-origin entries remain ledger-only

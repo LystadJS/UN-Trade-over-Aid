@@ -1,0 +1,57 @@
+{
+  "as_of": "2026-10-15",
+  "screened_records": 116,
+  "direct_tool_records": 62,
+  "tier_counts": {
+    "core": 62,
+    "support": 18,
+    "overlay": 9,
+    "candidate": 13,
+    "excluded": 10,
+    "adjacent": 3,
+    "alias": 1
+  },
+  "agency_counts": {
+    "Commerce/ITA": 23,
+    "EXIM": 8,
+    "DFC": 6,
+    "USTDA": 5,
+    "USDA/FAS": 11,
+    "SBA": 6,
+    "State": 1,
+    "Defense/State": 2
+  },
+  "status_counts": {
+    "officially_listed": 52,
+    "recent_activity_confirmed": 6,
+    "historical_status_unresolved": 1,
+    "funding_notice_confirmed": 2,
+    "current_authority_solicitation_closed": 1
+  },
+  "country_units": 249,
+  "country_program_cells": 15438,
+  "eligibility_code_counts": {
+    "U": 12436,
+    "C": 2157,
+    "NA": 249,
+    "L": 100,
+    "R": 56,
+    "B": 184,
+    "O": 207,
+    "X": 48,
+    "V": 1
+  },
+  "unknown_share_all_cells": 0.8055447596838968,
+  "unknown_share_excluding_NA": 0.8187504114819936,
+  "legacy_initiatives": 10,
+  "selected_awards": 23,
+  "award_actions": 131,
+  "selected_awards_by_program": {
+    "USAID01": 5,
+    "STATE09": 7,
+    "USAID02": 9,
+    "STATE08": 1,
+    "UNCONFIRMED_TAF": 1
+  },
+  "review_scope": "Targeted source checks and complete recalculation of published inventory counts; not independent verification of every program claim."
+}

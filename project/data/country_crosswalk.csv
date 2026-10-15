@@ -1,0 +1,160 @@
+﻿source_country,country_code,country,allocation
+United States,US,United States,domestic
+Pakistan,PK,Pakistan,named_country
+Serbia,RS,Serbia,named_country
+Turkey,TR,Turkey,named_country
+Benin,BJ,Benin,named_country
+"Korea, South",KR,Korea (South),named_country
+Mexico,MX,Mexico,named_country
+Ethiopia,ET,Ethiopia,named_country
+Uzbekistan,UZ,Uzbekistan,named_country
+Cote D'Ivoire,CI,Côte d'Ivoire,named_country
+Panama,PA,Panama,named_country
+Paraguay,PY,Paraguay,named_country
+Brazil,BR,Brazil,named_country
+Uruguay,UY,Uruguay,named_country
+Barbados,BB,Barbados,named_country
+Ecuador,EC,Ecuador,named_country
+Dominican Republic,DO,Dominican Republic,named_country
+Colombia,CO,Colombia,named_country
+Portugal,PT,Portugal,named_country
+Multiple - Countries,,,regional_or_unspecified
+Kuwait,KW,Kuwait,named_country
+Peru,PE,Peru,named_country
+India,IN,India,named_country
+Canada,CA,Canada,named_country
+Italy,IT,Italy,named_country
+Czech Republic,CZ,Czech Republic,named_country
+China,CN,China,named_country
+Singapore,SG,Singapore,named_country
+Australia,AU,Australia,named_country
+Belgium,BE,Belgium,named_country
+Qatar,QA,Qatar,named_country
+Guatemala,GT,Guatemala,named_country
+Bangladesh,BD,Bangladesh,named_country
+United Arab Emirates,AE,United Arab Emirates,named_country
+Japan,JP,Japan,named_country
+United Kingdom,GB,Britain (UK),named_country
+Tunisia,TN,Tunisia,named_country
+Lithuania,LT,Lithuania,named_country
+Thailand,TH,Thailand,named_country
+Germany,DE,Germany,named_country
+Taiwan,TW,Taiwan,named_country
+Chile,CL,Chile,named_country
+Saudi Arabia,SA,Saudi Arabia,named_country
+South Africa,ZA,South Africa,named_country
+Estonia,EE,Estonia,named_country
+France,FR,France,named_country
+El Salvador,SV,El Salvador,named_country
+Finland,FI,Finland,named_country
+North Macedonia,MK,North Macedonia,named_country
+Spain,ES,Spain,named_country
+Costa Rica,CR,Costa Rica,named_country
+Jamaica,JM,Jamaica,named_country
+Philippines,PH,Philippines,named_country
+Hong Kong,HK,Hong Kong,named_country
+Vietnam,VN,Vietnam,named_country
+Belize,BZ,Belize,named_country
+Indonesia,ID,Indonesia,named_country
+Norway,NO,Norway,named_country
+Israel,IL,Israel,named_country
+Egypt,EG,Egypt,named_country
+Honduras,HN,Honduras,named_country
+Malaysia,MY,Malaysia,named_country
+Greece,GR,Greece,named_country
+Poland,PL,Poland,named_country
+Iraq,IQ,Iraq,named_country
+Rwanda,RW,Rwanda,named_country
+Argentina,AR,Argentina,named_country
+Syria,SY,Syria,named_country
+South Sudan,SS,South Sudan,named_country
+Sri Lanka,LK,Sri Lanka,named_country
+Zimbabwe,ZW,Zimbabwe,named_country
+Trinidad & Tobago,TT,Trinidad & Tobago,named_country
+Kenya,KE,Kenya,named_country
+Antigua And Barbuda,AG,Antigua & Barbuda,named_country
+St. Vincent and the Grenadines,VC,St Vincent,named_country
+Morocco,MA,Morocco,named_country
+Yemen,YE,Yemen,named_country
+Bosnia And Herzegovina,BA,Bosnia & Herzegovina,named_country
+Jordan,JO,Jordan,named_country
+Nicaragua,NI,Nicaragua,named_country
+Liberia,LR,Liberia,named_country
+Mongolia,MN,Mongolia,named_country
+Timor-Leste,TL,East Timor,named_country
+Nepal,NP,Nepal,named_country
+Cambodia,KH,Cambodia,named_country
+South Korea,KR,Korea (South),named_country
+Lebanon,LB,Lebanon,named_country
+Montenegro,ME,Montenegro,named_country
+Togo,TG,Togo,named_country
+Georgia,GE,Georgia,named_country
+Worldwide,,,regional_or_unspecified
+Russia,RU,Russia,named_country
+Uganda,UG,Uganda,named_country
+Mali,ML,Mali,named_country
+Ghana,GH,Ghana,named_country
+Moldova,MD,Moldova,named_country
+Armenia,AM,Armenia,named_country
+Latin America Regional,,,regional_or_unspecified
+St. Kitts and Nevis,KN,St Kitts & Nevis,named_country
+Nigeria,NG,Nigeria,named_country
+West Bank And Gaza,PS,Palestine,named_country
+Hungary,HU,Hungary,named_country
+Romania,RO,Romania,named_country
+Botswana,BW,Botswana,named_country
+Ukraine,UA,Ukraine,named_country
+Senegal,SN,Senegal,named_country
+Asia Regional,,,regional_or_unspecified
+Africa Regional,,,regional_or_unspecified
+Tajikistan,TJ,Tajikistan,named_country
+Tanzania,TZ,Tanzania,named_country
+Haiti,HT,Haiti,named_country
+Zambia,ZM,Zambia,named_country
+Kyrgyzstan,KG,Kyrgyzstan,named_country
+Burma,MM,Myanmar (Burma),named_country
+Guinea,GN,Guinea,named_country
+Europe Regional,,,regional_or_unspecified
+Malawi,MW,Malawi,named_country
+Burkina Faso,BF,Burkina Faso,named_country
+Mozambique,MZ,Mozambique,named_country
+Afghanistan,AF,Afghanistan,named_country
+Chad,TD,Chad,named_country
+Oman,OM,Oman,named_country
+Gabon,GA,Gabon,named_country
+Mauritania,MR,Mauritania,named_country
+Somalia,SO,Somalia,named_country
+Burundi,BI,Burundi,named_country
+Papua New Guinea,PG,Papua New Guinea,named_country
+Niger,NE,Niger,named_country
+Democratic Republic Of Congo,CD,Congo (Dem. Rep.),named_country
+Kosovo,XK,Kosovo,named_country
+Lesotho,LS,Lesotho,named_country
+Sierra Leone,SL,Sierra Leone,named_country
+Middle East Regional,,,regional_or_unspecified
+Laos,LA,Laos,named_country
+Bulgaria,BG,Bulgaria,named_country
+Angola,AO,Angola,named_country
+Madagascar,MG,Madagascar,named_country
+Redacted,,,regional_or_unspecified
+Albania,AL,Albania,named_country
+Bolivia,BO,Bolivia,named_country
+Cabo Verde,CV,Cape Verde,named_country
+Côte d'Ivoire,CI,Côte d'Ivoire,named_country
+Fiji,FJ,Fiji,named_country
+The Gambia,GM,Gambia,named_country
+Guyana,GY,Guyana,named_country
+Kiribati,KI,Kiribati,named_country
+Kyrgyz Republic,KG,Kyrgyzstan,named_country
+Namibia,NA,Namibia,named_country
+São Tomé and Principe,ST,Sao Tome & Principe,named_country
+Solomon Islands,SB,Solomon Islands,named_country
+Tonga,TO,Tonga,named_country
+Vanuatu,VU,Vanuatu,named_country
+Ireland,IE,Ireland,named_country
+Korea,KR,Korea (South),named_country
+Slovakia,SK,Slovakia,named_country
+Slovenia,SI,Slovenia,named_country
+Turkmenistan,TM,Turkmenistan,named_country
+Czechia,CZ,Czech Republic,named_country
+New Zealand,NZ,New Zealand,named_country

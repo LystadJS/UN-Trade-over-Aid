@@ -1,0 +1,250 @@
+﻿country_code,country,ITA01,ITA02,ITA03,ITA04,ITA05,ITA06,ITA07,ITA08,ITA09,ITA10,ITA11,ITA12,ITA13,ITA14,ITA15,ITA16,ITA17,ITA18,ITA19,ITA20,ITA21,EXIM01,EXIM02,EXIM03,EXIM04,EXIM05,EXIM06,EXIM09,EXIM10,DFC01,DFC02,DFC03,DFC04,DFC05,DFC06,USTDA01,USTDA02,USTDA03,USTDA04,USTDA05,FAS01,FAS02,FAS03,FAS04,FAS05,FAS06,FAS07,FAS08,FAS09,FAS10,FAS11,SBA01,SBA02,SBA03,SBA04,SBA05,DOD01,DOD02,STATE06,SBA07,ITA25,ITA26
+AF,Afghanistan,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AL,Albania,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+DZ,Algeria,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AD,Andorra,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+AO,Angola,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AI,Anguilla,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AQ,Antarctica,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+AG,Antigua & Barbuda,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AR,Argentina,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AM,Armenia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AW,Aruba,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AU,Australia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AT,Austria,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AZ,Azerbaijan,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BS,Bahamas,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+BH,Bahrain,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BD,Bangladesh,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+BB,Barbados,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BY,Belarus,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+BE,Belgium,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+BZ,Belize,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BJ,Benin,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BM,Bermuda,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BT,Bhutan,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BO,Bolivia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BA,Bosnia & Herzegovina,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+BW,Botswana,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BV,Bouvet Island,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+BR,Brazil,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GB,Britain (UK),P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+IO,British Indian Ocean Territory,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+BN,Brunei,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BG,Bulgaria,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+BF,Burkina Faso,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+BI,Burundi,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+KH,Cambodia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CM,Cameroon,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CA,Canada,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CV,Cape Verde,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+BQ,Caribbean NL,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+KY,Cayman Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CF,Central African Rep.,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+TD,Chad,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CL,Chile,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CN,China,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CX,Christmas Island,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CC,Cocos (Keeling) Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CO,Colombia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+KM,Comoros,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CD,Congo (Dem. Rep.),T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CG,Congo (Rep.),T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CK,Cook Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CR,Costa Rica,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+HR,Croatia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CU,Cuba,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CW,Curaçao,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CY,Cyprus,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+CZ,Czech Republic,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+CI,Côte d'Ivoire,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+DK,Denmark,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+DJ,Djibouti,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+DM,Dominica,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+DO,Dominican Republic,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TL,East Timor,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+EC,Ecuador,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+EG,Egypt,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+SV,El Salvador,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GQ,Equatorial Guinea,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+ER,Eritrea,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+EE,Estonia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SZ,Eswatini (Swaziland),T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ET,Ethiopia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+FK,Falkland Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+FO,Faroe Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+FJ,Fiji,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+FI,Finland,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+FR,France,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GF,French Guiana,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+PF,French Polynesia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TF,French S. Terr.,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GA,Gabon,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GM,Gambia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GE,Georgia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+DE,Germany,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GH,Ghana,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GI,Gibraltar,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GR,Greece,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GL,Greenland,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GD,Grenada,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GP,Guadeloupe,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GU,Guam,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GT,Guatemala,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GG,Guernsey,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+GN,Guinea,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GW,Guinea-Bissau,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+GY,Guyana,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+HT,Haiti,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+HM,Heard Island & McDonald Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+HN,Honduras,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+HK,Hong Kong,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+HU,Hungary,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+IS,Iceland,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+IN,India,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+ID,Indonesia,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,A,A,A,A,A,A,Q,Q,Q,Q,Q,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+IR,Iran,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+IQ,Iraq,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+IE,Ireland,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+IM,Isle of Man,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+IL,Israel,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+IT,Italy,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+JM,Jamaica,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+JP,Japan,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+JE,Jersey,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+JO,Jordan,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+KZ,Kazakhstan,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+KE,Kenya,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+KI,Kiribati,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+KP,Korea (North),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+KR,Korea (South),P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+XK,Kosovo,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+KW,Kuwait,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+KG,Kyrgyzstan,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LA,Laos,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+LV,Latvia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LB,Lebanon,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LS,Lesotho,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LR,Liberia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LY,Libya,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LI,Liechtenstein,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+LT,Lithuania,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LU,Luxembourg,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+MO,Macau,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MG,Madagascar,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MW,Malawi,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MY,Malaysia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,Q,Q,Q,Q,Q,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+MV,Maldives,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+ML,Mali,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MT,Malta,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MH,Marshall Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MQ,Martinique,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MR,Mauritania,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MU,Mauritius,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+YT,Mayotte,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+MX,Mexico,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+FM,Micronesia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MD,Moldova,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MC,Monaco,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+MN,Mongolia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ME,Montenegro,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+MS,Montserrat,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MA,Morocco,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+MZ,Mozambique,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+MM,Myanmar (Burma),P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+NA,Namibia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+NR,Nauru,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+NP,Nepal,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+NL,Netherlands,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+NC,New Caledonia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+NZ,New Zealand,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+NI,Nicaragua,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+NE,Niger,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+NG,Nigeria,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+NU,Niue,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+NF,Norfolk Island,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+MK,North Macedonia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MP,Northern Mariana Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+NO,Norway,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+OM,Oman,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PK,Pakistan,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+PW,Palau,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PS,Palestine,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+PA,Panama,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+PG,Papua New Guinea,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PY,Paraguay,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PE,Peru,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+PH,Philippines,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+PN,Pitcairn,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+PL,Poland,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+PT,Portugal,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PR,Puerto Rico,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+QA,Qatar,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+RO,Romania,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+RU,Russia,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+RW,Rwanda,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+RE,Réunion,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+AS,Samoa (American),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+WS,Samoa (western),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SM,San Marino,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+ST,Sao Tome & Principe,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SA,Saudi Arabia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+SN,Senegal,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+RS,Serbia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+SC,Seychelles,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SL,Sierra Leone,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SG,Singapore,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+SK,Slovakia,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SI,Slovenia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SB,Solomon Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SO,Somalia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ZA,South Africa,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+GS,South Georgia & the South Sandwich Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SS,South Sudan,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ES,Spain,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+LK,Sri Lanka,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+BL,St Barthelemy,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SH,St Helena,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+KN,St Kitts & Nevis,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+LC,St Lucia,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SX,St Maarten (Dutch),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+MF,St Martin (French),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+PM,St Pierre & Miquelon,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+VC,St Vincent,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SD,Sudan,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+SR,Suriname,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SJ,Svalbard & Jan Mayen,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SE,Sweden,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+CH,Switzerland,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+SY,Syria,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TW,Taiwan,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TJ,Tajikistan,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TZ,Tanzania,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TH,Thailand,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TG,Togo,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TK,Tokelau,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+TO,Tonga,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TT,Trinidad & Tobago,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TN,Tunisia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TR,Turkey,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+TM,Turkmenistan,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TC,Turks & Caicos Is,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+TV,Tuvalu,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+UM,US minor outlying islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+UG,Uganda,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+UA,Ukraine,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+AE,United Arab Emirates,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+UY,Uruguay,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+UZ,Uzbekistan,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+VU,Vanuatu,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+VA,Vatican City,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+VE,Venezuela,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+VN,Vietnam,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,Q,Q,Q,Q,Q,P,P,P,P,P,P,P,P,P,P,P,U,U,U,U,U,U,U,U,U,U,U
+VG,Virgin Islands (UK),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+VI,Virgin Islands (US),U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+WF,Wallis & Futuna,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+EH,Western Sahara,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+YE,Yemen,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ZM,Zambia,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+ZW,Zimbabwe,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,R,R,R,R,R,R,R,R,R,R,R,U,U,U,U,U,U,U,U,U,U,U
+AX,Åland Islands,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U

@@ -1,0 +1,43 @@
+﻿award_id,country_code,target_market,sector,listed_end_date,temporal_assessment,source_id
+IT23IA1120001,IN,India,Robotics and Automation,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT23IA1120001,MX,Mexico,Robotics and Automation,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT20INA1120008,CN,China,"Agricultural, Construction, and Mining Equipment",2026-12-31,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,BR,Brazil,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,CO,Colombia,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,MX,Mexico,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,CL,Chile,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,AO,Angola,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120005,MZ,Mozambique,English language study services,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT21INA1120001,ID,Indonesia,Building Materials,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120001,PH,Philippines,Building Materials,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120006,CN,China,Cleantech,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120002,MX,Mexico,Advanced Manufacturing,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120002,TR,Turkey,Advanced Manufacturing,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120002,IN,India,Advanced Manufacturing,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120002,ID,Indonesia,Advanced Manufacturing,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120005,GB,United Kingdom,"Aerospace & Defense, Travel & Tourism, Healthcare/Medical Devices",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120005,BR,Brazil,"Aerospace & Defense, Travel & Tourism, Healthcare/Medical Devices",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120005,CA,Canada,"Aerospace & Defense, Travel & Tourism, Healthcare/Medical Devices",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120005,IE,Ireland,"Aerospace & Defense, Travel & Tourism, Healthcare/Medical Devices",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120008,GB,United Kingdom,Aerospace & Defense,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120008,KR,Korea,Aerospace & Defense,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120008,BR,Brazil,Aerospace & Defense,2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,ID,Indonesia,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,MY,Malaysia,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,VN,Vietnam,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,IN,India,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,PK,Pakistan,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT21INA1120012,BD,Bangladesh,"Recyclable commodities of nonferrous and ferrous scrap, paper stock, plastic, electronics, glass cullet, and tire scrap",2026-09-30,end_date_passed_extension_unverified,MDCP_ACTIVE
+IT22INA1120002,KR,Korea,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,JP,Japan,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,NO,Norway,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,PT,Portugal,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,ES,Spain,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,TW,Taiwan,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,VN,Vietnam,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,SG,Singapore,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120002,ID,Indonesia,Marine technology and water technology,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120001,AU,Australia,Performing arts,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120001,DE,Germany,Performing arts,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120001,CO,Colombia,Performing arts,2027-09-30,listed_current_award_target,MDCP_ACTIVE
+IT22INA1120003,ZA,South Africa,Telecommunications,2027-09-30,listed_current_award_target,MDCP_ACTIVE

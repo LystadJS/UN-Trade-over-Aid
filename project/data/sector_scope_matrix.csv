@@ -1,0 +1,63 @@
+﻿program_id,program,AG,MIN,EN,DIG,TR,HE,FIN,ENV,MAN,DEF,TOUR,EDU,PRO
+ITA01,Gold Key Service,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA02,International Partner Search,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA03,International Company Profile,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA04,Customized Market Research,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA05,Initial Market Check,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA06,RAISE Research / Rural Export Center,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA07,Single Company or Location Promotion,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA08,Trade Show Representation,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA09,Virtual Fairs,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA10,Virtual Introductions,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA11,Featured U.S. Exporters (FUSE),U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA12,Commerce-led Trade Missions,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA13,Certified Trade Missions,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA14,Trade Event Services (TEPP/TEMS and virtual variants),U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA15,Advocacy Center Services,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA16,MDB Commercial Liaison Services,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA17,Trade Agreements Negotiations and Compliance / trade-barrier assistance,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA18,Customized Export Counseling,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA19,Website Globalization Review Gap Analysis,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA20,Digital Attaché Program,U,U,U,S,U,U,U,U,U,U,U,U,U
+ITA21,Market Development Cooperator Program (MDCP),U,U,U,U,U,U,U,U,U,U,U,U,U
+EXIM01,Export Credit Insurance,U,U,U,U,U,U,U,U,U,U,U,U,U
+EXIM02,Working Capital Loan Guarantee,U,U,U,U,U,U,U,U,U,U,U,U,U
+EXIM03,Medium- and Long-Term Loan Guarantee,U,U,U,U,U,U,U,U,S,U,U,U,S
+EXIM04,Direct Loan,U,U,U,U,U,U,U,U,U,U,U,U,U
+EXIM05,Finance Lease Guarantee,U,U,U,U,U,U,U,U,S,U,U,U,S
+EXIM06,Engineering Multiplier Program,U,U,U,U,U,U,U,U,U,U,U,U,S
+EXIM09,Supply Chain Resiliency Initiative (SCRI),U,S,U,U,U,U,U,U,U,U,U,U,U
+EXIM10,Make More in America Initiative (MMIA),U,U,U,U,U,U,U,U,S,U,U,U,U
+DFC01,Debt,U,U,U,U,U,U,U,U,U,U,U,U,U
+DFC02,Guaranties,U,U,U,U,U,U,U,U,U,U,U,U,U
+DFC03,Political Risk Insurance,U,U,U,U,U,U,U,U,U,U,U,U,U
+DFC04,Equity,U,U,U,U,U,U,U,U,U,U,U,U,U
+DFC05,Platforms and Funds,U,U,U,U,U,U,U,U,U,U,U,U,U
+DFC06,Project Development,U,U,U,U,U,U,U,U,U,U,U,U,U
+USTDA01,Project Preparation Assistance (feasibility studies and technical assistance),U,U,U,U,U,U,U,U,U,U,U,U,U
+USTDA02,Pilot Projects,U,U,U,U,U,U,U,U,U,U,U,U,U
+USTDA03,Reverse Trade Missions,U,U,U,U,U,U,U,U,U,U,U,U,U
+USTDA04,Training Grants,U,U,U,U,U,U,U,U,U,U,U,U,U
+USTDA05,"Industry Conferences, Business Briefings and Expert Workshops",U,U,U,U,U,U,U,U,U,U,U,U,U
+FAS01,Export Credit Guarantee Program (GSM-102),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS02,Facility Guarantee Program,S,U,U,U,S,U,U,U,S,U,U,U,S
+FAS03,Market Access Program (MAP),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS04,Foreign Market Development (FMD),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS05,Regional Agricultural Promotion Program (RAPP),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS06,America First Trade Promotion Program (AFTPP),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS07,Emerging Markets Program (EMP),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS08,Quality Samples Program (QSP),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS09,Technical Assistance for Specialty Crops (TASC),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS10,Assisting Specialty Crop Exports (ASCE),S,U,U,U,U,U,U,U,U,U,U,U,U
+FAS11,Agribusiness Trade Missions,S,U,U,U,U,U,U,U,U,U,U,U,U
+SBA01,Export Express,U,U,U,U,U,U,U,U,U,U,U,U,U
+SBA02,Export Working Capital Program,U,U,U,U,U,U,U,U,U,U,U,U,U
+SBA03,International Trade Loan,U,U,U,U,U,U,U,U,U,U,U,U,U
+SBA04,7(a) Working Capital Pilot — export use,U,U,U,U,U,U,U,U,U,U,U,U,U
+SBA05,State Trade Expansion Program (STEP),U,U,U,U,U,U,U,U,U,U,U,U,U
+DOD01,Foreign Military Sales (FMS),U,U,U,U,U,U,U,U,U,S,U,U,U
+DOD02,Foreign Military Financing (FMF),U,U,U,U,U,U,U,U,U,S,U,U,U
+STATE06,Foundational Infrastructure for Responsible Use of SMR Technology FIRST,U,U,S,U,U,U,U,U,U,U,U,U,U
+SBA07,Manufacturers Access to Revolving Credit MARC export-related use,U,U,U,U,U,U,U,U,S,U,U,U,U
+ITA25,Export Trade Certificate of Review ETCR,U,U,U,U,U,U,U,U,U,U,U,U,U
+ITA26,Express Leads MEA ELMEA,S,U,S,S,U,S,U,U,U,S,U,U,U

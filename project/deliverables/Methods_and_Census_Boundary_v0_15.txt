@@ -1,0 +1,90 @@
+METHODS AND CENSUS BOUNDARY — v0.15
+Research cutoff: 15 October 2026. Descriptive release with explicit evidence status.
+
+Scope and grain
+The retained research frame contains 124 screened inventory records, including 62 direct instruments. The 110-column country frame is not identical to the 62-tool geography/scope frame. The former includes supporting initiatives and candidates; the latter contains the previously normalized direct-tool set. Records are not uniform statutory programs, independent deals or additive financing totals. All previous sources, raw data, crosswalks and excluded candidates remain in the package.
+
+Country status rules
+country_program_status_v15.csv contains 249 x 110 = 27,390 unique country-program cells. It joins the retained activity and multi-stage matrices to the 62-tool eligibility matrix and source-level ledger. Missing eligibility for additional instruments stays U; it is not inherited from the agency. The country universe includes territories and special codes and does not assert sovereignty. The United States is excluded from this foreign-country frame; some U.S. territories remain and are labeled as such in the underlying country-unit file.
+
+Display precedence, with all original stage codes preserved:
+1. Any A/C/D/I stage: Documented financing or delivery.
+2. Otherwise any B/G/N/P/S/T stage: Approval, pipeline or target only.
+3. Otherwise any H/X stage: Historical or terminated project.
+4. Otherwise eligibility C/B: Conditional geographic route only.
+5. Otherwise eligibility O/X/R/L: Geographic restriction or not listed.
+6. Otherwise NA: Domestic location axis.
+7. Otherwise: Unresolved / no qualifying observation.
+
+Precedence is a display choice, not an inference that the highest stage superseded every historical record. In particular, an MCC country may have both an implementation record and a terminated project. all_stage_codes retains those distinctions. The activity matrix uses A (EXIM authorization), C (commitment/signed financing), D (reported delivery), I (MCC implementation roster) and U (unknown). Original activity_codebook.csv defines every source-specific code. No category is named universally verified active.
+
+The stage matrix includes 286 qualifying observed pairs: A 77, C 165, D 36, I 8. These are pairs rather than deals. The full status table additionally has 33 approval/pipeline/target-only cells, 47 historical/terminated-only cells, 2,106 conditional-route-only cells, 409 geographic-restriction/not-listed cells, 249 domestic-axis cells and 24,260 unresolved cells. These categories sum to 27,390 under the precedence rule. Counts do not estimate true program coverage.
+
+Source linkage
+Each new status row retains program ID, country code, original stage, original eligibility code, program evidence, dated activity-source references and URLs, eligibility-source references and network/embassy codes. activity_source_* lists matching ledger observations excluding participant origins; the source ledger remains authoritative for each record's stage, geographic role and inclusion decision. A source attached to an unknown cell is a lead, not proof of current delivery. The source_evidence_dates column is not replaced by the overall review cutoff.
+
+Map and country matrices
+The map counts qualifying observed inventory records per country. It combines different types of financing/delivery evidence only to indicate observation coverage. It is not a spending, impact or official participant map. Natural Earth 1:110m geometry is retained with its URL and hash. Geographic boundaries do not assert U.S. recognition. The U.S. is white/excluded. Small territories missing at that scale remain in the country matrices. The map uses longitude/latitude (equirectangular layout); geographic area is not an analytical variable.
+
+The printable atlas contains every country unit and the 21 inventory columns with qualifying observations. The other 89 columns remain in the full status CSV and original matrices; their absence from the printable activity panel does not remove them from the inventory. Individual PNG and SVG exports accompany the PDF. The paper is three pages, with analytical detail placed in the atlas and data rather than compressed into unreadable figures.
+
+Overseas presence
+country_program_evidence.csv is deduplicated by country/network before counting published in-country addresses (P) and explicit embassy/mission affiliation (E). These categories overlap. Commercial Service: 67 P and 64 E; FAS: 78 P and 68 E. The former includes one AIT address; AIT is not coded E. Partner posts, cross-border coverage, locator-only records, announced staff and representative titles retain separate original codes. Zero plotted address evidence does not establish absence. No per-program staffing is inferred from an agency network. Directory evidence is not a certified current roster.
+
+Similarity analysis
+The full 62-tool categorical chart compares display_geography with display_scope from program_visual_crosswalk.csv. Axes are categorical; spacing has no quantitative meaning.
+
+The numerical projection is explicitly an exploratory comparison of geographic-rule profiles and broad sector/service scope. It is NOT a projection of actual country delivery. Actual activity geography is too heterogeneous and incompletely observed to support that stronger claim.
+
+Admission rule: at least 70% of 249 foreign-country units must have comparable nonmissing eligibility codes in the retained matrix. This is an analyst-selected completeness threshold, not a legal or statistical standard. It admits 13 instruments: EXIM01/03/04/05/06, DFC01–06, FAS01 and DOD01. The remaining 49 remain visible in the categorical chart and are listed in similarity_exclusions_v15.csv. Neither Power Africa agreement lead is promoted into the projection.
+
+Geography coding: C (conditional route) and B (FMS base AECA Yes) become route; O/X/R become restricted; L remains not_listed. U, NA and service-variant V are omitted from pairwise comparison. This deliberately coarse harmonization is an analytical assumption and does not assert equivalent legal terms. DOD's base authorization, FAS's fiscal destination list, EXIM's country-risk conditions and DFC's project geography still differ substantively. Raw codes and constraints remain available. Geographic distance is the fraction of mismatches among jointly known country cells; no missing entry is imputed as negative. Every admitted pair has at least 179 jointly known units.
+
+Scope coding: exact categorical comparison of scope_type, with broad_export_goods_services harmonized to broad_goods_services. Different scope categories receive distance 1, equal categories 0. This simplification does not measure how close agriculture and energy are, infer universal eligibility for a broad remit, or use unspecified sectors as zeros. It compares scope labels, not exhaustive industry eligibility.
+
+Combined distance = 0.5 x geographic mismatch + 0.5 x scope mismatch. Identical country vectors and scope are grouped before fitting: 13 instruments become seven profiles. In particular, DFC01–06 coincide because these inputs are shared, not because the products or delivered portfolios are identical. Grouping prevents six replicated profiles from overweighting the fit.
+
+Fit: deterministic 12-start nonlinear least-squares minimization of differences between Euclidean 2-D distances and the combined dissimilarities, using NumPy seed 20261015 and SciPy least_squares. Coordinates are centered. Axes have arbitrary orientation and no policy interpretation. Normalized stress = sqrt(sum((fitted_distance-target_distance)^2) / sum(target_distance^2)) = approximately 0.215. This material distortion precludes precise visual distance ranking. The accompanying exact-distance matrix and CSV should be used for exact comparisons.
+
+Sensitivity: geography weights 0.25, 0.50 and 0.75 produce stresses approximately 0.244, 0.215 and 0.153. Pair-distance rank correlation with the equal-weight version is 1.0 in this small, coarsely coded subset. This checks one weighting choice only, not completeness thresholds, alternative sector taxonomy, legal equivalence, country reporting biases or construct validity. No statistical confidence intervals, effectiveness estimates or causal claims are made.
+
+Uploaded records
+All seven uploads are preserved unchanged with SHA-256 hashes. Three roster PDFs are byte-identical. The court attachment and roster match the retained v0.11 files. The ZIPs contain 10 prime transactions (5 RTI, 4 Chemonics, 1 Green Powered Technology), 43 reported subaward rows (40 RTI, 3 Chemonics), and agency-account funding tables. Account reporting rows and update dates are not counted as contract modifications.
+
+Prime action dates, modification IDs, amounts and descriptions match retained primary transaction responses. RTI has one post-notice subaward report: Bowman Gilfillan, 12-330-0219152 INITIAL AWARD, April 15, 2025, $40,250, blank performance country. It is retained as a separate reporting lead, not inserted as current program/country activity. No signed reinstatement was supplied. No signed CLDP/DFC IAA was supplied.
+
+Reproduction and review
+Run from the extracted package root:
+  python scripts/build_evidence_views_v15.py
+  python scripts/build_paper_v15.py
+  python scripts/render_docx.py deliverables/US_Trade_Facilitation_Informative_Paper_v0_15.docx --output_dir validation/paper_v15 --emit_pdf
+  python scripts/verify_v15.py
+The retained geometry and inputs make analytical rebuilding independent of network access. Dependencies include numpy, scipy, matplotlib, python-docx and pypdf; DOCX rendering additionally requires LibreOffice and Poppler. Version details are retained in validation/runtime_v15.json. The baseline workbook is preserved as a historical v0.11 reference; v0.15 CSVs and figures supersede its presentation of these new analyses.
+
+Quality boundary
+This release is useful as a sourced descriptive account with visible uncertainty. It is not an agency-certified census, complete contract-action file, statement of current legal eligibility, definitive ownership roster or effectiveness evaluation. Historical requests to hold all visualization are superseded by the user's authorization to proceed with qualified evidence categories. Outstanding award documents remain local gaps rather than a global publication gate.
+
+V0.15 SERVICE EVIDENCE UPDATE
+10 source observations added: eight D observations and two historical H observations. Five new qualifying country–program pairs; two corroborated existing pairs. The four USTDA project-preparation reports represent three pairs because two concern the Philippines.
+Ledger: 2,193 observations. Qualifying matrix: 286 pairs across 21 inventory records and 124 country/territory units. Reported-delivery D pairs: 36, up from 31. These are evidence-coverage counts, not unique deals, dollars, independently verified active programs or measured impact.
+
+FAS
+Australia — host-government report dated August 30, 2026 says mission delegates are visiting Melbourne. D means reported ongoing presence, not completion. The stated August 30–September 3 span differs from USDA's August 30–September 2 schedule. The ledger records the observed start and leaves event_end blank. The government-page extraction is retained because two direct HTTP attempts timed out.
+Indonesia — U.S. Wheat's February 26 participant report explicitly dates the mission February 2–5 and describes meetings and site visits. This adds date precision and corroboration to an existing D pair; it is not a second mission.
+Philippines — Wisconsin DATCP's participant account identifies April 12–16 and reports B2B meetings, site visits and promotion. USDA's itinerary uses April 13–16. The participant travel interval is retained with this discrepancy. No publication date is invented. This corroborates an existing D pair; claimed buyer commitments and meeting counts are not treated as verified export outcomes.
+
+USTDA
+Philippines forum — September 14 retrospective agency account reports the sponsored Luzon Economic Corridor forum and site tours. It maps to USTDA05, conferences/briefings/workshops, not to reverse trade missions or an unresolved legacy award. The article's publication date is retained separately from unspecified precise event dates.
+Project preparation — the official March 26 catalog lists four final reports with 2026 Date Completed entries: 202051014A (Mexico, March 11), 202051003A (Brazil, March 3), 202031025A (Philippines, February 19), and 202131014A (Philippines, January 30). These are D observations of reported preparation outputs at the catalog-metadata level. The program mapping to USTDA01 follows the listed feasibility-study/technical-assistance activity types. The underlying reports, actual fieldwork dates, financing close, construction and subsequent operations were not verified. Project country is not an assertion that consultants worked physically there.
+Training — the PLDT–Cisco grant-training entry 202131013A is dated December 10, 2025, despite its inclusion in a March 2026 catalog. It remains H. Catalog currency does not turn old training into 2026 delivery; H does not mean the program terminated.
+
+MATCHMAKING
+Signed December 9, 2025 ETTAC minutes describe TEPP matchmaking at Expo Agua in Lima in October 2025. Added to ITA14 as H, not Gold Key and not 2026 delivery. This search did not establish a new 2026 Commerce Gold Key or International Partner Search country-delivery episode. Prospective notices and service-price/availability pages are insufficient. FAS participant reports independently document agricultural B2B activity without reassigning it to Commerce programs.
+
+CATEGORIES AND LIMITS
+No evidence category definition changed. USTDA01 and USTDA05 move to recent_delivery_reported on the evidence above; that label does not certify present intake or continuous operation. Program-category totals: 11 recent delivery, 12 portfolio/authorizations, 14 funding/intake/approval, 59 official offer only, 17 operationally unresolved, 11 exclusions/aliases. All eligibility, overseas-presence and legacy-survival files are unchanged.
+
+A caveat matters: primary sources can verify what an agency or participant reports without independently verifying the underlying performance. The catalog is strong evidence that USTDA lists completed reports; it is not a substitute for reading those deliverables. Historical cases and scheduled activities remain visible. No missing document or unsuccessful search was converted into inactivity.
+
+NEXT EVIDENCE PRIORITIES
+Obtain the four catalog-listed reports where publicly available, examine USTDA reverse-mission post-event accounts, and seek dated 2026 Commerce matchmaking episodes. No verification requests were sent. These gaps do not prevent use of the qualified descriptive paper and atlas.

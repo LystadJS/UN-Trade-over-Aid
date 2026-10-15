@@ -1,0 +1,29 @@
+﻿matrix,code,meaning
+eligibility,C,Conditional geographic route supported; not deal approval
+eligibility,O,EXIM off cover for all relevant sector/term cells; preserve notes/exceptions
+eligibility,L,Not listed in current GSM-102 FY2027 destination schedule
+eligibility,X,"Explicit programme-specific geographic exclusion; service, project location or award restriction as documented"
+eligibility,U,Unresolved or country-specific rule not normalized; never zero
+eligibility,NA,"Project-location axis is domestic, not a foreign destination"
+presence,P,Published in-country agency-network address; not program-specific staffing proof
+presence,L,Locator or local contact listing; physical office not established
+presence,T,State/Commercial Service partner-post channel; embassy only if embassy matrix says E
+presence,R,Cross-border serving-office relationship; no local address established
+presence,S,Explicit suspension overrides directory listing
+presence,A,Baseline official overseas staff announcement; current roster not independently reverified
+presence,Q,Country representative title only; physical station unverified
+presence,U,Presence not established; not proof of absence
+embassy,E,Explicit published embassy/consulate/mission affiliation or address
+embassy,I,AIT; not an embassy or consulate
+embassy,U,Not established; never inferred from another country or generic network language
+coverage,N,Agency network serves the market; does not establish every program is available
+coverage,R,Explicit cross-border service relationship
+coverage,S,Overseas CS operations suspended
+coverage,Q,Representative title only
+coverage,U,Unresolved
+eligibility,R,Explicit restriction or base FMS No; authorizations/exceptions and programme detail must be reviewed
+eligibility,B,Published FMS base AECA Yes only; not current sale approval
+eligibility,V,Service-variant dependent; cannot collapse IPS and IPS+virtual in Japan
+sector_scope,S,Explicit scoped support with qualifiers; not exhaustive/unconditional industry eligibility
+sector_priority,P,"Stated priority; may be agency-level, never interpreted as legal eligibility"
+sector,U,Not established or not expressly enumerated; never a negative/zero

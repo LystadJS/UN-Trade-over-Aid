@@ -1,0 +1,111 @@
+﻿program_id,name,country_units_with_observations,source_observations,stages,coverage_limit
+ITA01,Gold Key Service,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA02,International Partner Search,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA03,International Company Profile,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA04,Customized Market Research,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA05,Initial Market Check,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA06,REC Research / Rural Export Center,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA07,Single Company or Location Promotion,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA08,Trade Show Representation,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA09,Virtual Fairs,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA10,Virtual Introductions,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA11,Featured U.S. Exporters (FUSE),0,0,,Unknown elsewhere; not complete delivery footprint
+ITA12,Commerce-led Trade Missions,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA13,Certified Trade Missions,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA14,Trade Event Services (TEPP/TEMS and virtual variants),0,0,,Unknown elsewhere; not complete delivery footprint
+ITA15,Advocacy Center Services,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA16,MDB Commercial Liaison Services,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA17,Trade Agreements Negotiations and Compliance / trade-barrier assistance,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA18,Customized Export Counseling,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA19,Website Globalization Review Gap Analysis,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA20,Digital Attaché Program,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA21,Market Development Cooperator Program (MDCP),0,0,,Unknown elsewhere; not complete delivery footprint
+ITA22,Business Service Providers directory,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA23,Country Commercial Guides / Market Intelligence / Market Diversification Tool,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA24,Trade Winds / Discover Global Markets,0,0,,Unknown elsewhere; not complete delivery footprint
+DOC01,Commercial Law Development Program,6,6,D,Unknown elsewhere; not complete delivery footprint
+DOC02,ExporTech,0,0,,Unknown elsewhere; not complete delivery footprint
+DOC03,MBDA Export Centers,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM01,Export Credit Insurance,59,238,A,Unknown elsewhere; not complete delivery footprint
+EXIM02,Working Capital Loan Guarantee,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM03,Medium- and Long-Term Loan Guarantee,17,44,A,Unknown elsewhere; not complete delivery footprint
+EXIM04,Direct Loan,1,1,A,Unknown elsewhere; not complete delivery footprint
+EXIM05,Finance Lease Guarantee,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM06,Engineering Multiplier Program,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM07,Project and Structured Finance,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM08,China and Transformational Exports Program (CTEP),0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM09,Supply Chain Resiliency Initiative (SCRI),0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM10,Make More in America Initiative (MMIA),0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM11,Community Lender Enhancement Initiative,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM12,Global Business Development Unit / Regional Export Promotion Program,0,0,,Unknown elsewhere; not complete delivery footprint
+DFC01,Debt,22,36,C,Unknown elsewhere; not complete delivery footprint
+DFC02,Guaranties,58,244,C,Unknown elsewhere; not complete delivery footprint
+DFC03,Political Risk Insurance,41,93,C,Unknown elsewhere; not complete delivery footprint
+DFC04,Equity,11,27,C,Unknown elsewhere; not complete delivery footprint
+DFC05,Platforms and Funds,5,8,C,Unknown elsewhere; not complete delivery footprint
+DFC06,Project Development,27,39,C,Unknown elsewhere; not complete delivery footprint
+USTDA01,Project Preparation Assistance (feasibility studies and technical assistance),0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA02,Pilot Projects,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA03,Reverse Trade Missions,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA04,Training Grants,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA05,"Industry Conferences, Business Briefings and Expert Workshops",0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA06,Global Procurement Initiative,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA07,Making Global Local,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA08,Project Development Opportunities / Trade Leads,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA09,Southeast Asia and Pacific Aviation Cooperation Program,0,0,,Unknown elsewhere; not complete delivery footprint
+USTDA10,U.S. Global Gas Initiative,0,0,,Unknown elsewhere; not complete delivery footprint
+FAS01,Export Credit Guarantee Program (GSM-102),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS02,Facility Guarantee Program,0,0,,Unknown elsewhere; not complete delivery footprint
+FAS03,Market Access Program (MAP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS04,Foreign Market Development (FMD),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS05,Regional Agricultural Promotion Program (RAPP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS06,America First Trade Promotion Program (AFTPP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS07,Emerging Markets Program (EMP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS08,Quality Samples Program (QSP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS09,Technical Assistance for Specialty Crops (TASC),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS10,Assisting Specialty Crop Exports (ASCE),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS11,Agribusiness Trade Missions,9,9,D,Unknown elsewhere; not complete delivery footprint
+FAS12,Agricultural Trade Promotion Program (ATP),0,0,,Unknown elsewhere; not complete delivery footprint
+FAS13,FAS Agricultural Trade Offices / export assistance,0,0,,Unknown elsewhere; not complete delivery footprint
+FAS14,Cochran Fellowship Program,0,0,,Unknown elsewhere; not complete delivery footprint
+FAS15,Food for Progress,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA01,Export Express,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA02,Export Working Capital Program,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA03,International Trade Loan,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA04,7(a) Working Capital Pilot — export use,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA05,State Trade Expansion Program (STEP),0,0,,Unknown elsewhere; not complete delivery footprint
+SBA06,Export Finance Managers / Resource Partner export counseling,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE01,Embassy Deal Teams / DC Central Deal Team,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE02,Direct Line for American Business,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE03,Transaction Advisory Fund / Infrastructure Transaction Advisory Services,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE04,Business Information Database System (BIDS),0,0,,Unknown elsewhere; not complete delivery footprint
+STATE05,Investment Climate Statements,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE06,Foundational Infrastructure for Responsible Use of SMR Technology FIRST,4,4,D,Unknown elsewhere; not complete delivery footprint
+USAID01,Prosper Africa / Africa Trade and Investment,0,0,,Unknown elsewhere; not complete delivery footprint
+USAID02,Power Africa,0,0,,Unknown elsewhere; not complete delivery footprint
+DOD01,Foreign Military Sales (FMS),0,0,,Unknown elsewhere; not complete delivery footprint
+DOD02,Foreign Military Financing (FMF),0,0,,Unknown elsewhere; not complete delivery footprint
+MCC01,Compact / Threshold / Regional program procurement and private-sector engagement,8,8,I,Unknown elsewhere; not complete delivery footprint
+TREAS01,Office of Technical Assistance,0,0,,Unknown elsewhere; not complete delivery footprint
+DOT01,Momentum / international transportation technical assistance,0,0,,Unknown elsewhere; not complete delivery footprint
+DOT02,Transportation Contract Support,0,0,,Unknown elsewhere; not complete delivery footprint
+DOE01,Office of Market Development / international energy export promotion,0,0,,Unknown elsewhere; not complete delivery footprint
+DOE02,Lab Partnering Service,0,0,,Unknown elsewhere; not complete delivery footprint
+SBA07,Manufacturers Access to Revolving Credit MARC export-related use,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA25,Export Trade Certificate of Review ETCR,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA26,Express Leads MEA ELMEA,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA27,Gulf Impact,0,0,,Unknown elsewhere; not complete delivery footprint
+EXIM13,Single Point of Entry with Export Finance Australia,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE07,Business Facilitation Incentive Fund BFIF,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE08,International Technology Security and Innovation Fund ITSI,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE09,Digital Connectivity and Cybersecurity Partnership DCCP,1,1,D,"One event venue; shared CLDP/DCCP event, not complete program footprint."
+STATE10,Project Phoenix,4,4,D,Unknown elsewhere; not complete delivery footprint
+TREAS02,Government Debt and Infrastructure Finance component,0,0,,Unknown elsewhere; not complete delivery footprint
+ITA28,American AI Exports Program,0,0,,Unknown elsewhere; not complete delivery footprint
+DOC05,Special American Business Internship Training SABIT,0,0,,Unknown elsewhere; not complete delivery footprint
+DFC07,IFC Global Trade Finance Program counter-guaranty for US exports,0,0,,Unknown elsewhere; not complete delivery footprint
+DFC08,Orion Critical Mineral Consortium,0,0,,Unknown elsewhere; not complete delivery footprint
+DFC09,United States Ukraine Reconstruction Investment Fund,1,1,C,Unknown elsewhere; not complete delivery footprint
+STATE11,Pax Silica Fund solicitation,0,0,,Unknown elsewhere; not complete delivery footprint
+STATE12,Power Sector Program,1,1,D,Unknown elsewhere; not complete delivery footprint
+STATE13,Japan US Mekong Power Partnership JUMPP,1,1,D,Unknown elsewhere; not complete delivery footprint

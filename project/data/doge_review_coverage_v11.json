@@ -1,0 +1,14 @@
+{
+  "contracts": {
+    "retrieved_rows": 13440,
+    "distinct_full_row_serializations": 13033,
+    "limit": "Pagination on value may contain ties/duplicates. This is not a certified count of unique awards; absence is not evidence of survival.",
+    "usaid_rows": 3523,
+    "usaid_rows_with_unavailable_piid": 3506
+  },
+  "grants": {
+    "retrieved_rows": 15887,
+    "distinct_full_row_serializations": 15863,
+    "limit": "Pagination on value may contain ties/duplicates. This is not a certified count of unique awards; absence is not evidence of survival."
+  }
+}

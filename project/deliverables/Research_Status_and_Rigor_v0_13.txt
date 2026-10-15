@@ -1,0 +1,20 @@
+RESEARCH STATUS AND RIGOR — v0.13
+15 October 2026
+
+Completed: the three-page informative paper and 14-page visual atlas, with source-linked country status data, geography/scope comparisons, uploaded-record reconciliation and reproducible scripts. No unresolved award has been reclassified as verified active to enable visualization.
+
+Coverage: 124 screened inventory records; 62 direct instruments; 249 country/territory units by 110 matrix records. 276 observed financing/delivery pairs span 18 records and 121 country units. Another 24,273 cells remain unresolved under the explicit display rules. This is observed evidence coverage, not an estimate of actual coverage.
+
+Visuals: country map; six country-matrix pages; program evidence chart; exploratory two-dimensional similarity plot; exact distance heatmap; all-62-tool categorical geography/scope comparison; 25-award plus two-IAA-lead register; network/embassy evidence; country matrix key.
+
+Changed evidence: the uploaded ZIPs confirm the same 10 prime transactions. Their subaward files contain 43 reported rows, including RTI's $40,250 April 15, 2025 Bowman Gilfillan subaward with blank performance country. This is an additional post-notice reporting lead. It does not authenticate prime reinstatement or present country delivery. The four uploaded PDFs reproduce already retained records; the three roster copies are identical.
+
+What the paper informs: mechanisms, scope, selected geographic evidence, agency networks, limits on ownership/intake verification, and how uncertainty changes comparisons.
+
+What it does not inform: definitive current-active program counts, actual embassy staffing, every country's service availability, funding additionality, completed trade volume, causal effectiveness, or certified survival of the reviewed legacy awards.
+
+Rigor defense: source identifiers, dates, URLs and snapshots are retained; original uploads are unchanged; country-stage and eligibility concepts remain separate; unknowns are not imputed as inactivity; identical profiles are not artificially separated; excluded profiles and failed searches remain visible. Numerical similarity is a transparent analytical inference, not a source fact. Its stress of 0.215 indicates material distortion, so exact distances accompany the graphic. No missing legal instrument is replaced with a guessed status.
+
+Remaining limitations: biased public-reporting coverage, mixed reporting periods and geographic roles, coarse scope labels, unverified current staffing and intake, two unauthenticated interagency agreements, incomplete post-notice action chains, and incomplete service-program country evidence. The 13-tool similarity subset is not representative of all 62 direct tools.
+
+Next research: obtain executed actions/agreements if available, examine RTI's reported subaward in context, broaden dated delivery evidence for service instruments, and test richer sector coding. These are improvements for later editions, not reasons to withhold the present descriptive release. No external requests have been sent.

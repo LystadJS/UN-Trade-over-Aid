@@ -1,0 +1,123 @@
+{
+  "archive": "research-v0.15.tar.gz",
+  "archive_sha256": "1c47cd0b8feee63bd0f44717802261ba5ad5c4bebfd2af3c7a655a85103b1087",
+  "archive_bytes": 189527830,
+  "file_count": 3538,
+  "parts": [
+    {
+      "name": "research-v0.15.tar.gz.part001",
+      "bytes": 8388608,
+      "sha256": "cdbb5268e2bfb80aa35c954e6d9ebe1ba454d9fa2330dbb9ca191383a42bc5af"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part002",
+      "bytes": 8388608,
+      "sha256": "fa5b529893b15f336e0a0b3a354591a9de4bcb2ed553e6b7c015b0272a3a55ff"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part003",
+      "bytes": 8388608,
+      "sha256": "5e36c0264bd16a96083bd28c3d6d2f79759693295d6224b74148d4b05734b85a"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part004",
+      "bytes": 8388608,
+      "sha256": "fabeec983dacd63d9b3a50a2fe3b7ccc23e513829124a2e0499cd3929e145c76"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part005",
+      "bytes": 8388608,
+      "sha256": "38326bf597d29c86729ebec9c2c83a7cd6645a2322c7c25c8a9a5840931833b2"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part006",
+      "bytes": 8388608,
+      "sha256": "87c13083cb6e0d50d7cf09d122f1a5170e6901cd0d8a3ce284a5203f36cd5212"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part007",
+      "bytes": 8388608,
+      "sha256": "1df0ece2863b15ccf6e11179fafde7412d089e45e777a943ff0f58ae03401534"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part008",
+      "bytes": 8388608,
+      "sha256": "11b703f22df63bd2a4a51e3be194941c17e0ea27f7685714d05b2479975f395e"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part009",
+      "bytes": 8388608,
+      "sha256": "632a3e4795c3ae3ff3d79a64e34e509541284ca8fb3561994acca62894fc41d2"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part010",
+      "bytes": 8388608,
+      "sha256": "5891e26589e68861d55ced5e54801fa109b7fc1b8ba1fdc3c9818d5dfcb4da0b"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part011",
+      "bytes": 8388608,
+      "sha256": "b70185865728c9908661a495e5328a3f457c70e15146aeee11a37d7807f235b0"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part012",
+      "bytes": 8388608,
+      "sha256": "dc7c54e564eee4cc86f8952566dd6b325e478a92b52366c80ba08fcb3171e132"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part013",
+      "bytes": 8388608,
+      "sha256": "114ab6615a8ab77ea64125f9aa4fecccf533294ca2504040c2e7280d22ebf104"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part014",
+      "bytes": 8388608,
+      "sha256": "0b8b03a6aed354a38594b4035b2345c5fe084f043a73a41e79581041fae080d0"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part015",
+      "bytes": 8388608,
+      "sha256": "37103f03fd8de8b8cd1dd1916a9dbad6f9dac9df42797c7cf1c868085359a2a7"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part016",
+      "bytes": 8388608,
+      "sha256": "68f0a5b8ab3e9e9b9b4cc73df368b18f73a0bbaa9fe997275560c7c06b5a14d8"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part017",
+      "bytes": 8388608,
+      "sha256": "16cf46c978b7f8667c57c8e2464327d10cef49c3187b933e3ab6422b5e063634"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part018",
+      "bytes": 8388608,
+      "sha256": "d9c089556bd6a04ebef9dfa11278e3d7978d92099c437bcab0ca11e95928f8b6"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part019",
+      "bytes": 8388608,
+      "sha256": "156b809fc5c85ad3db8ac4967d3c2fd88aa7775b011ca01bf236094558e10e7f"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part020",
+      "bytes": 8388608,
+      "sha256": "b20012a7ff2372d01a0ad0b1d04f7acd4ebd0d313a60708027f39ea0e570a7b3"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part021",
+      "bytes": 8388608,
+      "sha256": "20104e6bbc5537316ae506c2e6854b762df1b7ef8d5aae10862cc186fe1adb15"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part022",
+      "bytes": 8388608,
+      "sha256": "9fd33ddfcd6d5e1d0cb310643c00e4f7f8818ac0c9d7df8cea0a6ed002016300"
+    },
+    {
+      "name": "research-v0.15.tar.gz.part023",
+      "bytes": 4978454,
+      "sha256": "6786fd5bde3901bb71a7424d69c861f2b0f7751f0d2d5bd7a1311632c8a14e85"
+    }
+  ]
+}

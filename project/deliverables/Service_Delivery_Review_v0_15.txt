@@ -1,0 +1,27 @@
+DATED MATCHMAKING, USTDA AND FAS REVIEW — v0.15
+Research cutoff: October 15, 2026. Retrieval timestamps are recorded separately.
+
+RESULT
+10 source observations added: eight D observations and two historical H observations. Five new qualifying country–program pairs; two corroborated existing pairs. The four USTDA project-preparation reports represent three pairs because two concern the Philippines.
+Ledger: 2,193 observations. Qualifying matrix: 286 pairs across 21 inventory records and 124 country/territory units. Reported-delivery D pairs: 36, up from 31. These are evidence-coverage counts, not unique deals, dollars, independently verified active programs or measured impact.
+
+FAS
+Australia — host-government report dated August 30, 2026 says mission delegates are visiting Melbourne. D means reported ongoing presence, not completion. The stated August 30–September 3 span differs from USDA's August 30–September 2 schedule. The ledger records the observed start and leaves event_end blank. The government-page extraction is retained because two direct HTTP attempts timed out.
+Indonesia — U.S. Wheat's February 26 participant report explicitly dates the mission February 2–5 and describes meetings and site visits. This adds date precision and corroboration to an existing D pair; it is not a second mission.
+Philippines — Wisconsin DATCP's participant account identifies April 12–16 and reports B2B meetings, site visits and promotion. USDA's itinerary uses April 13–16. The participant travel interval is retained with this discrepancy. No publication date is invented. This corroborates an existing D pair; claimed buyer commitments and meeting counts are not treated as verified export outcomes.
+
+USTDA
+Philippines forum — September 14 retrospective agency account reports the sponsored Luzon Economic Corridor forum and site tours. It maps to USTDA05, conferences/briefings/workshops, not to reverse trade missions or an unresolved legacy award. The article's publication date is retained separately from unspecified precise event dates.
+Project preparation — the official March 26 catalog lists four final reports with 2026 Date Completed entries: 202051014A (Mexico, March 11), 202051003A (Brazil, March 3), 202031025A (Philippines, February 19), and 202131014A (Philippines, January 30). These are D observations of reported preparation outputs at the catalog-metadata level. The program mapping to USTDA01 follows the listed feasibility-study/technical-assistance activity types. The underlying reports, actual fieldwork dates, financing close, construction and subsequent operations were not verified. Project country is not an assertion that consultants worked physically there.
+Training — the PLDT–Cisco grant-training entry 202131013A is dated December 10, 2025, despite its inclusion in a March 2026 catalog. It remains H. Catalog currency does not turn old training into 2026 delivery; H does not mean the program terminated.
+
+MATCHMAKING
+Signed December 9, 2025 ETTAC minutes describe TEPP matchmaking at Expo Agua in Lima in October 2025. Added to ITA14 as H, not Gold Key and not 2026 delivery. This search did not establish a new 2026 Commerce Gold Key or International Partner Search country-delivery episode. Prospective notices and service-price/availability pages are insufficient. FAS participant reports independently document agricultural B2B activity without reassigning it to Commerce programs.
+
+CATEGORIES AND LIMITS
+No evidence category definition changed. USTDA01 and USTDA05 move to recent_delivery_reported on the evidence above; that label does not certify present intake or continuous operation. Program-category totals: 11 recent delivery, 12 portfolio/authorizations, 14 funding/intake/approval, 59 official offer only, 17 operationally unresolved, 11 exclusions/aliases. All eligibility, overseas-presence and legacy-survival files are unchanged.
+
+A caveat matters: primary sources can verify what an agency or participant reports without independently verifying the underlying performance. The catalog is strong evidence that USTDA lists completed reports; it is not a substitute for reading those deliverables. Historical cases and scheduled activities remain visible. No missing document or unsuccessful search was converted into inactivity.
+
+NEXT EVIDENCE PRIORITIES
+Obtain the four catalog-listed reports where publicly available, examine USTDA reverse-mission post-event accounts, and seek dated 2026 Commerce matchmaking episodes. No verification requests were sent. These gaps do not prevent use of the qualified descriptive paper and atlas.

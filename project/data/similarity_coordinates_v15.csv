@@ -1,0 +1,14 @@
+program_id,program,group,x,y,known_country_entries,scope,operational_evidence
+EXIM01,Export Credit Insurance,1,-0.026327373209703353,0.2804533234093469,210,broad_goods_services,current_portfolio_or_authorizations
+EXIM03,Medium- and Long-Term Loan Guarantee,2,-0.3134815374122901,-0.1691575463616033,210,capital_goods_related_services,current_portfolio_or_authorizations
+EXIM05,Finance Lease Guarantee,2,-0.3134815374122901,-0.1691575463616033,210,capital_goods_related_services,current_official_offer_only
+EXIM04,Direct Loan,3,-0.06187639845679982,0.2932097348486167,210,broad_goods_services,current_portfolio_or_authorizations
+EXIM06,Engineering Multiplier Program,4,-0.38309883882596907,0.11398587636797686,210,engineering_preproject_services,current_official_offer_only
+DFC01,Debt,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+DFC02,Guaranties,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+DFC03,Political Risk Insurance,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+DFC04,Equity,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+DFC05,Platforms and Funds,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+DFC06,Project Development,5,0.219368649407798,-0.18509057445592703,187,multisector_project,current_portfolio_or_authorizations
+FAS01,Export Credit Guarantee Program (GSM-102),6,0.5400717394618528,0.10819620057498014,249,agriculture_food,funding_intake_or_approval_action
+DOD01,Foreign Military Sales (FMS),7,0.025343759035116875,-0.4415970143832624,225,defense_articles_services,current_official_offer_only

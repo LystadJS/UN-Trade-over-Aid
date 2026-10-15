@@ -1,0 +1,17 @@
+{
+  "xlsx_rows": 1085,
+  "json_rows": 1085,
+  "country_department_amount_multisets_equal": true,
+  "unique_project_numbers": 926,
+  "instrument_mapping_counts": {
+    "DFC_LEGACY_UNALLOCATED": 230,
+    "DFC_FINANCE_UNALLOCATED": 294,
+    "DFC01": 38,
+    "DFC03": 94,
+    "DFC02": 276,
+    "DFC05": 30,
+    "DFC04": 69,
+    "DFC06": 54
+  },
+  "mapping_source": "DFC_FINANCE_FAQ"
+}
